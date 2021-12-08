@@ -1,0 +1,97 @@
+@media screen and (max-width:650px){
+    .carouselStyle{
+        margin-bottom: 0rem;
+        margin-top: 0rem;
+        padding-right: 1rem;
+        overflow-x: hidden;
+    }
+    /* .caroseul_creator_style{
+
+    } */
+}
+@media screen and (min-width:1400px) and (max-width:2000px){
+    .carouselStyle{
+        margin-left: 1rem;
+        margin-right: 1.4rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 0px;
+    }
+    .search_header_field{
+        width: 70% !important;
+    }
+}
+@media screen and (min-width:1211px) and (max-width:1400px){
+    .carouselStyle{
+        margin-left: 2rem;
+        margin-right: 6.9rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 6%;
+        margin-right: 6%;
+    }
+    .search_header_field{
+        width: 70% !important;
+    }
+}
+@media screen and (min-width:1122px) and (max-width:1211px){
+    .carouselStyle{
+        margin-left: 0rem;
+        margin-right: 6.3rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 105px;
+        margin-right: 100px;
+    }
+    .search_header_field{
+        width: 70% !important;
+    }
+}
+@media screen and (min-width:1000px) and (max-width:1122px){
+    .carouselStyle{
+        margin-left: 1rem;
+        margin-right: 5.1rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 40px;
+        margin-right: 80px;
+    }
+}
+@media screen and (min-width:937px) and (max-width:1000px){
+    .carouselStyle{
+        margin-left: 1rem;
+        margin-right: 8.2rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 120px;
+    }
+}
+@media screen and (min-width:835px) and (max-width:934px){
+    .carouselStyle{
+        margin-left: 0rem;
+        margin-right: 5.5rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 84px;
+        margin-right: 80px;
+    }
+}
+@media screen and (min-width:650px) and (max-width:835px){
+    .carouselStyle{
+        margin-left: -1.6rem;
+        margin-right: 2.5rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+}
+@media screen and (min-width:650px) and (max-width:835px){
+    .carouselStyle{
+        margin-left: -1.6rem;
+        margin-right: 2.5rem;
+    }
+    .caroseul_creator_style{
+        margin-left: 60px;
+    }
+}

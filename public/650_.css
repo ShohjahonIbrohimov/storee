@@ -1,0 +1,27 @@
+@media screen and (min-width:650px) {
+    .title_category_Section_header{
+        font-size: 25px !important;
+        text-transform: none;
+    }
+    .more_category_section_header{
+        text-transform: none;
+    }
+    .visit_shop_style{
+        position: absolute;
+        right: -93px;
+        width: fit-content;
+        top: 17px;
+        text-decoration: none;
+        color: black;
+        float: right;
+        cursor: pointer;
+        overflow: hidden;
+        text-transform: none;
+        text-overflow: ellipsis;
+        text-align: right;
+        white-space: nowrap;
+    }
+    .shop_name_container{
+        margin-bottom: 22px;
+    }
+}

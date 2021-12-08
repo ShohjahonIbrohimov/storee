@@ -1,0 +1,1466 @@
+{
+  "Add PostCard": [
+    {
+      "type": 0,
+      "value": "Добавить открытку"
+    }
+  ],
+  "All": [
+    {
+      "type": 0,
+      "value": "Все"
+    }
+  ],
+  "Amount": [
+    {
+      "type": 0,
+      "value": "Количество"
+    }
+  ],
+  "Any Document": [
+    {
+      "type": 0,
+      "value": "Любой документ"
+    }
+  ],
+  "Apply Voucher": [
+    {
+      "type": 0,
+      "value": "Применить ваучер"
+    }
+  ],
+  "Back To Order List": [
+    {
+      "type": 0,
+      "value": "Вернуться к списку заказов"
+    }
+  ],
+  "Back to Product List": [
+    {
+      "type": 0,
+      "value": "Вернуться к списку продуктов"
+    }
+  ],
+  "Back to cart": [
+    {
+      "type": 0,
+      "value": "Вернуться в корзину"
+    }
+  ],
+  "Booked": [
+    {
+      "type": 0,
+      "value": "Количество забронированных продуктов заранее"
+    }
+  ],
+  "Buy Now": [
+    {
+      "type": 0,
+      "value": "Kупить сейчас"
+    }
+  ],
+  "Cards": [
+    {
+      "type": 0,
+      "value": "Карты"
+    }
+  ],
+  "Cash": [
+    {
+      "type": 0,
+      "value": "Наличные"
+    }
+  ],
+  "Checkout Now": [
+    {
+      "type": 0,
+      "value": "Kупить cейчас"
+    }
+  ],
+  "Choose Your Gender": [
+    {
+      "type": 0,
+      "value": "Ваш пол"
+    }
+  ],
+  "Consumed_products": [
+    {
+      "type": 0,
+      "value": "Подержанные продукты"
+    }
+  ],
+  "Corparative Sales": [
+    {
+      "type": 0,
+      "value": "Корпоративное обслуживание"
+    }
+  ],
+  "Date Purchased": [
+    {
+      "type": 0,
+      "value": "Дата покупки"
+    }
+  ],
+  "Delivery Time": [
+    {
+      "type": 0,
+      "value": "Срок поставки"
+    }
+  ],
+  "Details": [
+    {
+      "type": 0,
+      "value": "Подробности"
+    }
+  ],
+  "Discount": [
+    {
+      "type": 0,
+      "value": "Скидка"
+    }
+  ],
+  "Discount(without percentage)": [
+    {
+      "type": 0,
+      "value": "Скидка % (необязательно)"
+    }
+  ],
+  "Female": [
+    {
+      "type": 0,
+      "value": "Женский"
+    }
+  ],
+  "Free": [
+    {
+      "type": 0,
+      "value": "бесплатно"
+    }
+  ],
+  "Full Description": [
+    {
+      "type": 0,
+      "value": "Полное описание"
+    }
+  ],
+  "Male": [
+    {
+      "type": 0,
+      "value": "Мужчина"
+    }
+  ],
+  "My Orders": [
+    {
+      "type": 0,
+      "value": "Мои заказы"
+    }
+  ],
+  "Name": [
+    {
+      "type": 0,
+      "value": "Имя"
+    }
+  ],
+  "Order": [
+    {
+      "type": 0,
+      "value": "Заказы"
+    }
+  ],
+  "Order Details": [
+    {
+      "type": 0,
+      "value": "Информация для заказа"
+    }
+  ],
+  "Order ID": [
+    {
+      "type": 0,
+      "value": "Hомер заказа"
+    }
+  ],
+  "Order_#": [
+    {
+      "type": 0,
+      "value": "Порядок #"
+    }
+  ],
+  "Placed On": [
+    {
+      "type": 0,
+      "value": "Размещены нa"
+    }
+  ],
+  "Price Range": [
+    {
+      "type": 0,
+      "value": "Ценовой диапазон"
+    }
+  ],
+  "Product Name": [
+    {
+      "type": 0,
+      "value": "Hаименование товара"
+    }
+  ],
+  "Products": [
+    {
+      "type": 0,
+      "value": "Продукты"
+    }
+  ],
+  "Regular Price": [
+    {
+      "type": 0,
+      "value": "Цена"
+    }
+  ],
+  "Review": [
+    {
+      "type": 0,
+      "value": "Рассмотрение"
+    }
+  ],
+  "Select List": [
+    {
+      "type": 0,
+      "value": "Выбрать список"
+    }
+  ],
+  "Shipping": [
+    {
+      "type": 0,
+      "value": "Перевозки"
+    }
+  ],
+  "Shops": [
+    {
+      "type": 0,
+      "value": "Магазины"
+    }
+  ],
+  "Sort By": [
+    {
+      "type": 0,
+      "value": "Сортировать по цене"
+    }
+  ],
+  "Status": [
+    {
+      "type": 0,
+      "value": "Положение дел"
+    }
+  ],
+  "Subscribe": [
+    {
+      "type": 0,
+      "value": "Подписывайся"
+    }
+  ],
+  "Subscribed": [
+    {
+      "type": 0,
+      "value": "Отписаться"
+    }
+  ],
+  "Subtotal": [
+    {
+      "type": 0,
+      "value": "Промежуточный итог"
+    }
+  ],
+  "Total": [
+    {
+      "type": 0,
+      "value": "Общий"
+    }
+  ],
+  "Type": [
+    {
+      "type": 0,
+      "value": "Тип"
+    }
+  ],
+  "Used Products": [
+    {
+      "type": 0,
+      "value": "Материалы"
+    }
+  ],
+  "Validity Period": [
+    {
+      "type": 0,
+      "value": "Срок годности"
+    }
+  ],
+  "Voucher": [
+    {
+      "type": 0,
+      "value": "Ваучер"
+    }
+  ],
+  "Your Message": [
+    {
+      "type": 0,
+      "value": "Твое сообщение"
+    }
+  ],
+  "Your Rating": [
+    {
+      "type": 0,
+      "value": "Ваш рейтинг"
+    }
+  ],
+  "Your Review": [
+    {
+      "type": 0,
+      "value": "Ваш обзор"
+    }
+  ],
+  "Your_order": [
+    {
+      "type": 0,
+      "value": "Твоя очередь"
+    }
+  ],
+  "accepted_convenient_payment": [
+    {
+      "type": 0,
+      "value": "принято. Пожалуйста, выберите тип оплаты"
+    }
+  ],
+  "account_settings": [
+    {
+      "type": 0,
+      "value": "Настройки профиля"
+    }
+  ],
+  "active": [
+    {
+      "type": 0,
+      "value": "Активный"
+    }
+  ],
+  "add_all_cart": [
+    {
+      "type": 0,
+      "value": "Добавить все в корзину"
+    }
+  ],
+  "add_comment_success": [
+    {
+      "type": 0,
+      "value": "Вы успешно прокомментировали"
+    }
+  ],
+  "add_links": [
+    {
+      "type": 0,
+      "value": "Добавить ссылку +"
+    }
+  ],
+  "add_new_product": [
+    {
+      "type": 0,
+      "value": "Добавить новый продукт"
+    }
+  ],
+  "add_product": [
+    {
+      "type": 0,
+      "value": "Добавить товар"
+    }
+  ],
+  "add_to_cart": [
+    {
+      "type": 0,
+      "value": "Добавить в корзину"
+    }
+  ],
+  "add_used_products": [
+    {
+      "type": 0,
+      "value": "Добавить использованный продукт +"
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Адреса"
+    }
+  ],
+  "all_rights": [
+    {
+      "type": 0,
+      "value": "© 2021 dana.uz - Все права защищены"
+    }
+  ],
+  "back_to_product_list": [
+    {
+      "type": 0,
+      "value": "Вернуться к списку продуктов"
+    }
+  ],
+  "balance": [
+    {
+      "type": 0,
+      "value": "Остаток средств:"
+    }
+  ],
+  "banner_button": [
+    {
+      "type": 0,
+      "value": "Посетить"
+    }
+  ],
+  "birthdate": [
+    {
+      "type": 0,
+      "value": "Дата рождения"
+    }
+  ],
+  "blocked": [
+    {
+      "type": 0,
+      "value": "Заблокировано"
+    }
+  ],
+  "bonus": [
+    {
+      "type": 0,
+      "value": "Бонус"
+    }
+  ],
+  "book": [
+    {
+      "type": 0,
+      "value": "Покупка товаров"
+    }
+  ],
+  "budget": [
+    {
+      "type": 0,
+      "value": "Cчет"
+    }
+  ],
+  "budget_fulfill": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, введите сумму денег"
+    }
+  ],
+  "business_account": [
+    {
+      "type": 0,
+      "value": "Бизнес аккаунт"
+    }
+  ],
+  "button_check_status": [
+    {
+      "type": 0,
+      "value": "проверьте cтатус заказа."
+    }
+  ],
+  "cart": [
+    {
+      "type": 0,
+      "value": "Корзина"
+    }
+  ],
+  "cashback": [
+    {
+      "type": 0,
+      "value": "Возврат"
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "value": "Категории"
+    }
+  ],
+  "category_name": [
+    {
+      "type": 0,
+      "value": "Название категории"
+    }
+  ],
+  "changed_info_success": [
+    {
+      "type": 0,
+      "value": "Информация вашего профиля успешно изменена"
+    }
+  ],
+  "check_button_status": [
+    {
+      "type": 0,
+      "value": "Cтатус заказа"
+    }
+  ],
+  "check_order_status": [
+    {
+      "type": 0,
+      "value": "Чтобы узнать статус заказа и оплатить введите его номер и "
+    }
+  ],
+  "choose_category": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, выберите категорию"
+    }
+  ],
+  "choose_delivery_time": [
+    {
+      "type": 0,
+      "value": "Выберите срок доставки"
+    }
+  ],
+  "choose_length_scales": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, обратитесь к одной из шкал длины"
+    }
+  ],
+  "choose_place_map": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, выберите место на карте"
+    }
+  ],
+  "company_name": [
+    {
+      "type": 0,
+      "value": "Название компании"
+    }
+  ],
+  "connectUs": [
+    {
+      "type": 0,
+      "value": "Подключите нас"
+    }
+  ],
+  "connectUsText": [
+    {
+      "type": 0,
+      "value": "Скоро придет"
+    }
+  ],
+  "connect_A": [
+    {
+      "type": 0,
+      "value": "Связаться с администратором"
+    }
+  ],
+  "contact": [
+    {
+      "type": 0,
+      "value": "Контакт"
+    }
+  ],
+  "corporate_send_sucess": [
+    {
+      "type": 0,
+      "value": "Сообщение успешно отправлено"
+    }
+  ],
+  "correct_password": [
+    {
+      "type": 0,
+      "value": "Введите правильный пароль"
+    }
+  ],
+  "correct_phone": [
+    {
+      "type": 0,
+      "value": "Введите номер телефона в правильном формате"
+    }
+  ],
+  "create_shop": [
+    {
+      "type": 0,
+      "value": "Создать магазин"
+    }
+  ],
+  "create_shop_success": [
+    {
+      "type": 0,
+      "value": "Магазин успешно создан"
+    }
+  ],
+  "currency": [
+    {
+      "type": 0,
+      "value": "Валюта"
+    }
+  ],
+  "currency_required": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, выберите валюту"
+    }
+  ],
+  "currency_unit": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, выберите одну из валют"
+    }
+  ],
+  "dashboard": [
+    {
+      "type": 0,
+      "value": "ДРУГИЕ"
+    }
+  ],
+  "date": [
+    {
+      "type": 0,
+      "value": "Дата"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Удалить"
+    }
+  ],
+  "deliver": [
+    {
+      "type": 0,
+      "value": "Условия доставки"
+    }
+  ],
+  "delivered": [
+    {
+      "type": 0,
+      "value": "Успешно доставлено"
+    }
+  ],
+  "delivering": [
+    {
+      "type": 0,
+      "value": "В процессе доставки"
+    }
+  ],
+  "delivery_price": [
+    {
+      "type": 0,
+      "value": "Стоимость доставки"
+    }
+  ],
+  "delivery_time": [
+    {
+      "type": 0,
+      "value": "Срок доставки"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "Описание"
+    }
+  ],
+  "desktop_navigation_cabinet": [
+    {
+      "type": 0,
+      "value": "Кабинет"
+    }
+  ],
+  "document": [
+    {
+      "type": 0,
+      "value": "Законные документы"
+    }
+  ],
+  "drag_drop": [
+    {
+      "type": 0,
+      "value": "Перетащите изображение продукта сюда"
+    }
+  ],
+  "edit_p": [
+    {
+      "type": 0,
+      "value": "Редактировать профиль"
+    }
+  ],
+  "edit_product": [
+    {
+      "type": 0,
+      "value": "Редактировать продукт"
+    }
+  ],
+  "email": [
+    {
+      "type": 0,
+      "value": "Эл. адрес"
+    }
+  ],
+  "empty": [
+    {
+      "type": 0,
+      "value": "Пустой"
+    }
+  ],
+  "empty_cart": [
+    {
+      "type": 0,
+      "value": "Твоя корзина покупок пуста. Начать покупки"
+    }
+  ],
+  "error_booking": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так"
+    }
+  ],
+  "estimated_delivery": [
+    {
+      "type": 0,
+      "value": "Предполагаемый день доставки"
+    }
+  ],
+  "footer_header_link1": [
+    {
+      "type": 0,
+      "value": "О компании"
+    }
+  ],
+  "footer_header_link1_sublink1": [
+    {
+      "type": 0,
+      "value": "О нас"
+    }
+  ],
+  "footer_header_link1_sublink2": [
+    {
+      "type": 0,
+      "value": "Карьера"
+    }
+  ],
+  "footer_header_link1_sublink3": [
+    {
+      "type": 0,
+      "value": "Вакансии"
+    }
+  ],
+  "footer_header_link1_sublink4": [
+    {
+      "type": 0,
+      "value": "Сотрудничество"
+    }
+  ],
+  "footer_header_link2": [
+    {
+      "type": 0,
+      "value": "Обслуживание клиентов"
+    }
+  ],
+  "footer_header_link2_sublink1": [
+    {
+      "type": 0,
+      "value": "Центр помощи"
+    }
+  ],
+  "footer_header_link2_sublink2": [
+    {
+      "type": 0,
+      "value": "Как купить"
+    }
+  ],
+  "footer_header_link2_sublink3": [
+    {
+      "type": 0,
+      "value": "Возврат"
+    }
+  ],
+  "footer_header_link2_sublink4": [
+    {
+      "type": 0,
+      "value": "Услуги"
+    }
+  ],
+  "footer_header_link2_sublink5": [
+    {
+      "type": 0,
+      "value": "Операционные услуги"
+    }
+  ],
+  "footer_header_link3": [
+    {
+      "type": 0,
+      "value": "Магазины"
+    }
+  ],
+  "full": [
+    {
+      "type": 0,
+      "value": "Подробнее"
+    }
+  ],
+  "full_name": [
+    {
+      "type": 0,
+      "value": "ФИО"
+    }
+  ],
+  "go_back": [
+    {
+      "type": 0,
+      "value": "Вернитесь назад"
+    }
+  ],
+  "go_home": [
+    {
+      "type": 0,
+      "value": "Идти домой"
+    }
+  ],
+  "height": [
+    {
+      "type": 0,
+      "value": "Bысоты"
+    }
+  ],
+  "height_unit": [
+    {
+      "type": 0,
+      "value": "Bысоты eдиница"
+    }
+  ],
+  "help": [
+    {
+      "type": 0,
+      "value": "Помощь"
+    }
+  ],
+  "help_text": [
+    {
+      "type": 0,
+      "value": "Если у вас есть какие-либо вопросы, связанные с веб-сайтом, свяжитесь с нами"
+    }
+  ],
+  "hi": [
+    {
+      "type": 0,
+      "value": "Привет "
+    }
+  ],
+  "high_low": [
+    {
+      "type": 0,
+      "value": "Цена сверху вниз"
+    }
+  ],
+  "hisob": [
+    {
+      "type": 0,
+      "value": "Мой аккаунт"
+    }
+  ],
+  "hour": [
+    {
+      "type": 0,
+      "value": "час"
+    }
+  ],
+  "in_moderation": [
+    {
+      "type": 0,
+      "value": "Умеренно"
+    }
+  ],
+  "inactive": [
+    {
+      "type": 0,
+      "value": "Неактивный"
+    }
+  ],
+  "input_phone": [
+    {
+      "type": 0,
+      "value": "Пожалуйста введите ваш номер телефона!"
+    }
+  ],
+  "input_sms": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, введите смс, которое будет отправлено на введенный"
+    }
+  ],
+  "item": [
+    {
+      "type": 0,
+      "value": "шт."
+    }
+  ],
+  "kod": [
+    {
+      "type": 0,
+      "value": "Код"
+    }
+  ],
+  "less": [
+    {
+      "type": 0,
+      "value": "Читать меньше"
+    }
+  ],
+  "login_phone": [
+    {
+      "type": 0,
+      "value": "Войти по номеру телефона"
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "Выход"
+    }
+  ],
+  "low_high": [
+    {
+      "type": 0,
+      "value": "Цена высока снизу вверх"
+    }
+  ],
+  "material_select": [
+    {
+      "type": 0,
+      "value": "Выберите один материал, связанный с вашим продуктом."
+    }
+  ],
+  "materials": [
+    {
+      "type": 0,
+      "value": "Материал"
+    }
+  ],
+  "min": [
+    {
+      "type": 0,
+      "value": "минут"
+    }
+  ],
+  "mobile_navigation_account": [
+    {
+      "type": 0,
+      "value": "Аккоунт"
+    }
+  ],
+  "mobile_navigation_category": [
+    {
+      "type": 0,
+      "value": "Категория"
+    }
+  ],
+  "mobile_navigation_home": [
+    {
+      "type": 0,
+      "value": "Главная"
+    }
+  ],
+  "my_profile": [
+    {
+      "type": 0,
+      "value": "Мой профиль"
+    }
+  ],
+  "need_help": [
+    {
+      "type": 0,
+      "value": "Нужна помощь?"
+    }
+  ],
+  "need_today": [
+    {
+      "type": 0,
+      "value": "Это нужно сегодня?"
+    }
+  ],
+  "none_orders": [
+    {
+      "type": 0,
+      "value": "В вашем магазине ничего не заказано"
+    }
+  ],
+  "off(chegirma)": [
+    {
+      "type": 0,
+      "value": "Скидка"
+    }
+  ],
+  "order_again": [
+    {
+      "type": 0,
+      "value": "Заказать снова"
+    }
+  ],
+  "order_not_found": [
+    {
+      "type": 0,
+      "value": " заказ не найден."
+    }
+  ],
+  "order_status": [
+    {
+      "type": 0,
+      "value": "Статус заказа"
+    }
+  ],
+  "orders": [
+    {
+      "type": 0,
+      "value": "Мои заказы"
+    }
+  ],
+  "packaging": [
+    {
+      "type": 0,
+      "value": "В процессе упаковки"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "Оплата"
+    }
+  ],
+  "payment_methods": [
+    {
+      "type": 0,
+      "value": "Способы оплаты"
+    }
+  ],
+  "phone_number": [
+    {
+      "type": 0,
+      "value": "Телефонный номер"
+    }
+  ],
+  "postcard text": [
+    {
+      "type": 0,
+      "value": "Текст открытки"
+    }
+  ],
+  "price_with_delivery": [
+    {
+      "type": 0,
+      "value": "Цена с доставкой"
+    }
+  ],
+  "products_total_price": [
+    {
+      "type": 0,
+      "value": "Итоговая цена продуктов"
+    }
+  ],
+  "profile_info": [
+    {
+      "type": 0,
+      "value": "Информация профиля"
+    }
+  ],
+  "rating": [
+    {
+      "type": 0,
+      "value": "Оценено"
+    }
+  ],
+  "rating_required": [
+    {
+      "type": 0,
+      "value": "Рейтинг обязателен"
+    }
+  ],
+  "recaptcha_verify": [
+    {
+      "type": 0,
+      "value": "Убедитесь, что вы не бот с верификацией"
+    }
+  ],
+  "register": [
+    {
+      "type": 0,
+      "value": "Регистрация"
+    }
+  ],
+  "related_product": [
+    {
+      "type": 0,
+      "value": "Cопутствующие товары"
+    }
+  ],
+  "replenish": [
+    {
+      "type": 0,
+      "value": "Наполните свой кошелек"
+    }
+  ],
+  "required_description": [
+    {
+      "type": 0,
+      "value": "Требуется описание"
+    }
+  ],
+  "results_found": [
+    {
+      "type": 0,
+      "value": "результаты найдены"
+    }
+  ],
+  "review_placeholder": [
+    {
+      "type": 0,
+      "value": "Напишите здесь отзыв ..."
+    }
+  ],
+  "rows_per_page": [
+    {
+      "type": 0,
+      "value": " Cтроки на каждой странице"
+    }
+  ],
+  "sale_price": [
+    {
+      "type": 0,
+      "value": "Цена продажи"
+    }
+  ],
+  "search": [
+    {
+      "type": 0,
+      "value": "Найдите и нажмите Enter  ..."
+    }
+  ],
+  "search_for": [
+    {
+      "type": 0,
+      "value": "Поиск по ключевому слову:"
+    }
+  ],
+  "section12_item1_text": [
+    {
+      "type": 0,
+      "value": "Мы предлагаем конкурентоспособные цены на нашу более 100 миллионов продуктов в любом ассортименте."
+    }
+  ],
+  "section12_item1_title": [
+    {
+      "type": 0,
+      "value": "Доставка по всему миру"
+    }
+  ],
+  "section12_item2_text": [
+    {
+      "type": 0,
+      "value": "Мы предлагаем конкурентоспособные цены на нашу более 100 миллионов продуктов в любом ассортименте."
+    }
+  ],
+  "section12_item2_title": [
+    {
+      "type": 0,
+      "value": "Доставка по всему миру"
+    }
+  ],
+  "section12_item3_text": [
+    {
+      "type": 0,
+      "value": "Мы предлагаем конкурентоспособные цены на нашу более 100 миллионов продуктов в любом ассортименте."
+    }
+  ],
+  "section12_item3_title": [
+    {
+      "type": 0,
+      "value": "Доставка по всему миру"
+    }
+  ],
+  "section12_item4_text": [
+    {
+      "type": 0,
+      "value": "Мы предлагаем конкурентоспособные цены на нашу более 100 миллионов продуктов в любом ассортименте."
+    }
+  ],
+  "section12_item4_title": [
+    {
+      "type": 0,
+      "value": "Доставка по всему миру"
+    }
+  ],
+  "section12_title": [
+    {
+      "type": 0,
+      "value": "Реакция потребителей на наши услуги"
+    }
+  ],
+  "select_files": [
+    {
+      "type": 0,
+      "value": "Выбрать файлы"
+    }
+  ],
+  "select_gender": [
+    {
+      "type": 0,
+      "value": "Ваш пол"
+    }
+  ],
+  "select_image": [
+    {
+      "type": 0,
+      "value": "Пожалуйста, выберите изображение"
+    }
+  ],
+  "select_location": [
+    {
+      "type": 0,
+      "value": "Выберите место"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "Послать"
+    }
+  ],
+  "send(jonatish)": [
+    {
+      "type": 0,
+      "value": "Послать"
+    }
+  ],
+  "send_again": [
+    {
+      "type": 0,
+      "value": "Отправить код еще раз"
+    }
+  ],
+  "send_ask_again": [
+    {
+      "type": 0,
+      "value": "Вы можете попросить повторно отправить код через 1 минуту"
+    }
+  ],
+  "send_message": [
+    {
+      "type": 0,
+      "value": "Отправить код"
+    }
+  ],
+  "shop": [
+    {
+      "type": 0,
+      "value": "Мои магазины"
+    }
+  ],
+  "shop_links": [
+    {
+      "type": 0,
+      "value": "Ссылки (Kанал, Facebook, YouTube ....), связанные с вашим магазином"
+    }
+  ],
+  "shop_name": [
+    {
+      "type": 0,
+      "value": "Название магазина"
+    }
+  ],
+  "shop_review": [
+    {
+      "type": 0,
+      "value": "Оставьте комментарий об этом магазине"
+    }
+  ],
+  "site": [
+    {
+      "type": 0,
+      "value": "Сайт"
+    }
+  ],
+  "social_links": [
+    {
+      "type": 0,
+      "value": "Социальные сети"
+    }
+  ],
+  "sold_by": [
+    {
+      "type": 0,
+      "value": "Продавец"
+    }
+  ],
+  "stock_available": [
+    {
+      "type": 0,
+      "value": "Имеется в наличии"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "Послать"
+    }
+  ],
+  "successfully_booked": [
+    {
+      "type": 0,
+      "value": "Вы успешно забронировали"
+    }
+  ],
+  "sum": [
+    {
+      "type": 0,
+      "value": "cўм"
+    }
+  ],
+  "support_tickets": [
+    {
+      "type": 0,
+      "value": "Билеты на помощь"
+    }
+  ],
+  "text_below_postcard": [
+    {
+      "type": 0,
+      "value": "Мы не говорим получателю от кого цветы. Если вы хотите, чтобы ваш адресат узнал, кто прислал подарок подпишитесь"
+    }
+  ],
+  "text_required": [
+    {
+      "type": 0,
+      "value": "Обратная связь обязательна"
+    }
+  ],
+  "top_category": [
+    {
+      "type": 0,
+      "value": "Популярные категории"
+    }
+  ],
+  "total_summary": [
+    {
+      "type": 0,
+      "value": "Итого"
+    }
+  ],
+  "unit": [
+    {
+      "type": 0,
+      "value": "Ед. изм"
+    }
+  ],
+  "unit_select": [
+    {
+      "type": 0,
+      "value": "Выберите единицы, относящиеся к вашему продукту"
+    }
+  ],
+  "units_error": [
+    {
+      "type": 0,
+      "value": "Выберите одну из единиц длины"
+    }
+  ],
+  "update_vendor_info_button": [
+    {
+      "type": 0,
+      "value": "Обновить информацию о продавце"
+    }
+  ],
+  "upload_images": [
+    {
+      "type": 0,
+      "value": "Загрузить фото"
+    }
+  ],
+  "user": [
+    {
+      "type": 0,
+      "value": "Войти"
+    }
+  ],
+  "view_all": [
+    {
+      "type": 0,
+      "value": "Bсе"
+    }
+  ],
+  "visit_Shop": [
+    {
+      "type": 0,
+      "value": "Посетить магазин"
+    }
+  ],
+  "wallet": [
+    {
+      "type": 0,
+      "value": "Бумажник"
+    }
+  ],
+  "wallet_instructions": [
+    {
+      "type": 0,
+      "value": "Используйте учетную запись в кошельке для рекламы рекламы, покупки коллекции и отдельных объявлений"
+    }
+  ],
+  "welcome_login": [
+    {
+      "type": 0,
+      "value": "Добро пожаловать в цветочный магазин"
+    }
+  ],
+  "width": [
+    {
+      "type": 0,
+      "value": "Ширина"
+    }
+  ],
+  "width_unit": [
+    {
+      "type": 0,
+      "value": "Ширина eдиница "
+    }
+  ],
+  "wishlist": [
+    {
+      "type": 0,
+      "value": "Избранное"
+    }
+  ],
+  "work_end_time": [
+    {
+      "type": 0,
+      "value": "Конец времени работы"
+    }
+  ],
+  "work_start_time": [
+    {
+      "type": 0,
+      "value": "Время начала работы"
+    }
+  ],
+  "write_review": [
+    {
+      "type": 0,
+      "value": "Напишите отзыв об этом продукте"
+    }
+  ],
+  "your_address": [
+    {
+      "type": 0,
+      "value": "Ваш адресс"
+    }
+  ],
+  "your_address_map": [
+    {
+      "type": 0,
+      "value": "Ваш адрес (щелкните место на адресе на карте)"
+    }
+  ],
+  "youtube": [
+    {
+      "type": 0,
+      "value": "YouTube"
+    }
+  ]
+}

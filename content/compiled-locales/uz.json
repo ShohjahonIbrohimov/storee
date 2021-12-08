@@ -1,0 +1,1460 @@
+{
+  "Add PostCard": [
+    {
+      "type": 0,
+      "value": "Otkridka qo'shish"
+    }
+  ],
+  "All": [
+    {
+      "type": 0,
+      "value": "Hammasi"
+    }
+  ],
+  "Amount": [
+    {
+      "type": 0,
+      "value": "Miqdori"
+    }
+  ],
+  "Any Document": [
+    {
+      "type": 0,
+      "value": "Har qanday hujjat"
+    }
+  ],
+  "Apply Voucher": [
+    {
+      "type": 0,
+      "value": "Voucherni ishlatish"
+    }
+  ],
+  "Back To Order List": [
+    {
+      "type": 0,
+      "value": "Buyurtma ro'yxatiga qaytish"
+    }
+  ],
+  "Back to Product List": [
+    {
+      "type": 0,
+      "value": "Mahsulotlar ro'yxatiga qaytish"
+    }
+  ],
+  "Back to cart": [
+    {
+      "type": 0,
+      "value": "Savatga qaytish"
+    }
+  ],
+  "Booked": [
+    {
+      "type": 0,
+      "value": "Oldindan buyurtma qilingan mahsulotlar soni"
+    }
+  ],
+  "Buy Now": [
+    {
+      "type": 0,
+      "value": "Buyurtma berish"
+    }
+  ],
+  "Cards": [
+    {
+      "type": 0,
+      "value": "Kartalar"
+    }
+  ],
+  "Cash": [
+    {
+      "type": 0,
+      "value": "Naqd pul"
+    }
+  ],
+  "Checkout Now": [
+    {
+      "type": 0,
+      "value": "Hoziroq sotib Olish"
+    }
+  ],
+  "Choose Your Gender": [
+    {
+      "type": 0,
+      "value": "Sizning jinsingiz"
+    }
+  ],
+  "Consumed_products": [
+    {
+      "type": 0,
+      "value": "Ishlatilgan mahsulotlar"
+    }
+  ],
+  "Corparative Sales": [
+    {
+      "type": 0,
+      "value": "Korporativ xizmat"
+    }
+  ],
+  "Date Purchased": [
+    {
+      "type": 0,
+      "value": "Xarid qilingan sana"
+    }
+  ],
+  "Delivery Time": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish vaqti"
+    }
+  ],
+  "Details": [
+    {
+      "type": 0,
+      "value": "Tafsilotlar"
+    }
+  ],
+  "Discount": [
+    {
+      "type": 0,
+      "value": "Chegirma"
+    }
+  ],
+  "Discount(without percentage)": [
+    {
+      "type": 0,
+      "value": "Chegirma  % da(majburiy emas)"
+    }
+  ],
+  "Female": [
+    {
+      "type": 0,
+      "value": "Ayol"
+    }
+  ],
+  "Free": [
+    {
+      "type": 0,
+      "value": "bepul"
+    }
+  ],
+  "Full Description": [
+    {
+      "type": 0,
+      "value": "To'liq tavsif"
+    }
+  ],
+  "Male": [
+    {
+      "type": 0,
+      "value": "Erkak"
+    }
+  ],
+  "My Orders": [
+    {
+      "type": 0,
+      "value": "Mening buyurtmalarim"
+    }
+  ],
+  "Name": [
+    {
+      "type": 0,
+      "value": "Ism"
+    }
+  ],
+  "Order": [
+    {
+      "type": 0,
+      "value": "Buyurtma"
+    }
+  ],
+  "Order Details": [
+    {
+      "type": 0,
+      "value": "Buyurtma tafsilotlari"
+    }
+  ],
+  "Order ID": [
+    {
+      "type": 0,
+      "value": "Buyurtma ID"
+    }
+  ],
+  "Order_#": [
+    {
+      "type": 0,
+      "value": "Tartib #"
+    }
+  ],
+  "Placed On": [
+    {
+      "type": 0,
+      "value": "Joylashtirildi"
+    }
+  ],
+  "Price Range": [
+    {
+      "type": 0,
+      "value": "Narxlar oralig'i"
+    }
+  ],
+  "Product Name": [
+    {
+      "type": 0,
+      "value": "Mahsulot nomi"
+    }
+  ],
+  "Products": [
+    {
+      "type": 0,
+      "value": "Mahsulotlar"
+    }
+  ],
+  "Regular Price": [
+    {
+      "type": 0,
+      "value": "Narx"
+    }
+  ],
+  "Review": [
+    {
+      "type": 0,
+      "value": "Sharh"
+    }
+  ],
+  "Select List": [
+    {
+      "type": 0,
+      "value": "Ro'yxatni tanlang"
+    }
+  ],
+  "Shipping": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish"
+    }
+  ],
+  "Shops": [
+    {
+      "type": 0,
+      "value": "Magazinlar"
+    }
+  ],
+  "Sort By": [
+    {
+      "type": 0,
+      "value": "Narx bo'yicha saralash"
+    }
+  ],
+  "Status": [
+    {
+      "type": 0,
+      "value": "Status"
+    }
+  ],
+  "Subscribe": [
+    {
+      "type": 0,
+      "value": "Obuna bo'lish"
+    }
+  ],
+  "Subscribed": [
+    {
+      "type": 0,
+      "value": "Obunani bekor qilish"
+    }
+  ],
+  "Subtotal": [
+    {
+      "type": 0,
+      "value": "Jami"
+    }
+  ],
+  "Total": [
+    {
+      "type": 0,
+      "value": "Jami"
+    }
+  ],
+  "Type": [
+    {
+      "type": 0,
+      "value": "Turi"
+    }
+  ],
+  "Used Products": [
+    {
+      "type": 0,
+      "value": "Materiallar"
+    }
+  ],
+  "Validity Period": [
+    {
+      "type": 0,
+      "value": "Amal qilish muddati"
+    }
+  ],
+  "Voucher": [
+    {
+      "type": 0,
+      "value": "Voucher"
+    }
+  ],
+  "Your Message": [
+    {
+      "type": 0,
+      "value": "Sizning xatingiz"
+    }
+  ],
+  "Your Rating": [
+    {
+      "type": 0,
+      "value": "Sizning reytingingiz"
+    }
+  ],
+  "Your Review": [
+    {
+      "type": 0,
+      "value": "Sizning sharhingiz"
+    }
+  ],
+  "Your_order": [
+    {
+      "type": 0,
+      "value": "Sizning buyurtmangiz"
+    }
+  ],
+  "accepted_convenient_payment": [
+    {
+      "type": 0,
+      "value": "qabul qilindi. Iltimos to'lov turini tanlang"
+    }
+  ],
+  "account_settings": [
+    {
+      "type": 0,
+      "value": "Profil sozlamalari"
+    }
+  ],
+  "active": [
+    {
+      "type": 0,
+      "value": "Faol"
+    }
+  ],
+  "add_all_cart": [
+    {
+      "type": 0,
+      "value": "Hammasini savatchaga qo'shish"
+    }
+  ],
+  "add_comment_success": [
+    {
+      "type": 0,
+      "value": "Muvaffaqiyatli izoh qoldirdingiz"
+    }
+  ],
+  "add_links": [
+    {
+      "type": 0,
+      "value": "Link + qo'shing"
+    }
+  ],
+  "add_new_product": [
+    {
+      "type": 0,
+      "value": "Yangi mahsulot qo'shish"
+    }
+  ],
+  "add_product": [
+    {
+      "type": 0,
+      "value": "Mahsulot qo'shish"
+    }
+  ],
+  "add_to_cart": [
+    {
+      "type": 0,
+      "value": "Savatga qo'shish"
+    }
+  ],
+  "add_used_products": [
+    {
+      "type": 0,
+      "value": "Ishlatilgan mahsulotni qo'shing +"
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Manzil"
+    }
+  ],
+  "all_rights": [
+    {
+      "type": 0,
+      "value": "© 2021 dana.uz - Barcha huquqlar himoyalangan"
+    }
+  ],
+  "back_to_product_list": [
+    {
+      "type": 0,
+      "value": "Mahsulotlar ro'yxatiga qaytish"
+    }
+  ],
+  "balance": [
+    {
+      "type": 0,
+      "value": "Balans:"
+    }
+  ],
+  "banner_button": [
+    {
+      "type": 0,
+      "value": "Tashrif buyuring"
+    }
+  ],
+  "birthdate": [
+    {
+      "type": 0,
+      "value": "Tug'ilgan kun"
+    }
+  ],
+  "blocked": [
+    {
+      "type": 0,
+      "value": "Bloklangan"
+    }
+  ],
+  "bonus": [
+    {
+      "type": 0,
+      "value": "Bonus"
+    }
+  ],
+  "book": [
+    {
+      "type": 0,
+      "value": "Xarid qilish"
+    }
+  ],
+  "budget": [
+    {
+      "type": 0,
+      "value": "Xisob"
+    }
+  ],
+  "budget_fulfill": [
+    {
+      "type": 0,
+      "value": "Iltimos, pul miqdorini kiriting"
+    }
+  ],
+  "business_account": [
+    {
+      "type": 0,
+      "value": "Bizness akkount"
+    }
+  ],
+  "button_check_status": [
+    {
+      "type": 0,
+      "value": "buyurtma holatini tekshirish -ni bosing."
+    }
+  ],
+  "cart": [
+    {
+      "type": 0,
+      "value": "Savatcha"
+    }
+  ],
+  "cashback": [
+    {
+      "type": 0,
+      "value": "Cashback"
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "value": "Kategoriyalar"
+    }
+  ],
+  "category_name": [
+    {
+      "type": 0,
+      "value": "Kategoriya nomi"
+    }
+  ],
+  "changed_info_success": [
+    {
+      "type": 0,
+      "value": "Profil ma'lumotlari muvaffaqiyatli o'zgartirildi"
+    }
+  ],
+  "check_button_status": [
+    {
+      "type": 0,
+      "value": "Buyurtma holatini tekshirish"
+    }
+  ],
+  "check_order_status": [
+    {
+      "type": 0,
+      "value": "Buyurtma va to'lov holatini bilish uchun uning raqamini kiriting va  "
+    }
+  ],
+  "choose_category": [
+    {
+      "type": 0,
+      "value": "Iltimos, kategoriyani tanlang"
+    }
+  ],
+  "choose_delivery_time": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish vaqtini tanlang"
+    }
+  ],
+  "choose_length_scales": [
+    {
+      "type": 0,
+      "value": "Iltimos, uzunlik o'lchovlaridan biriga tanlang"
+    }
+  ],
+  "choose_place_map": [
+    {
+      "type": 0,
+      "value": "Xaritadan joy tanlang"
+    }
+  ],
+  "company_name": [
+    {
+      "type": 0,
+      "value": "Kompaniya nomi"
+    }
+  ],
+  "connectUs": [
+    {
+      "type": 0,
+      "value": "Biz bilan bog'lanish"
+    }
+  ],
+  "connectUsText": [
+    {
+      "type": 0,
+      "value": "Tez orada"
+    }
+  ],
+  "connect_A": [
+    {
+      "type": 0,
+      "value": "Admin bilan bog'lanish"
+    }
+  ],
+  "contact": [
+    {
+      "type": 0,
+      "value": "Aloqa"
+    }
+  ],
+  "corporate_send_sucess": [
+    {
+      "type": 0,
+      "value": "Xabar muvaffaqiyatli yuborildi"
+    }
+  ],
+  "correct_password": [
+    {
+      "type": 0,
+      "value": "To'gri parolni kiriting"
+    }
+  ],
+  "correct_phone": [
+    {
+      "type": 0,
+      "value": "To'gri formatdagi telefon raqamini kiriting"
+    }
+  ],
+  "create_shop": [
+    {
+      "type": 0,
+      "value": "Magazin yaratish"
+    }
+  ],
+  "create_shop_success": [
+    {
+      "type": 0,
+      "value": "Do'kon muvaffaqiyatli yaratildi"
+    }
+  ],
+  "currency": [
+    {
+      "type": 0,
+      "value": "Valyuta"
+    }
+  ],
+  "currency_required": [
+    {
+      "type": 0,
+      "value": "Iltimos, pul birligini tanlang"
+    }
+  ],
+  "currency_unit": [
+    {
+      "type": 0,
+      "value": "Valyutalardan birini tanlang"
+    }
+  ],
+  "dashboard": [
+    {
+      "type": 0,
+      "value": "Boshqa"
+    }
+  ],
+  "date": [
+    {
+      "type": 0,
+      "value": "Sana"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "O'chirish"
+    }
+  ],
+  "deliver": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish shartlari"
+    }
+  ],
+  "delivered": [
+    {
+      "type": 0,
+      "value": "Yetkazib berildi"
+    }
+  ],
+  "delivering": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish jarayonida"
+    }
+  ],
+  "delivery_price": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish narxi"
+    }
+  ],
+  "delivery_time": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish vaqti"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "Tavsif"
+    }
+  ],
+  "desktop_navigation_cabinet": [
+    {
+      "type": 0,
+      "value": "Kabinet"
+    }
+  ],
+  "document": [
+    {
+      "type": 0,
+      "value": "Yuridik hujjatlar"
+    }
+  ],
+  "drag_drop": [
+    {
+      "type": 0,
+      "value": "Mahsulot tasvirini bu yerga  tashlang"
+    }
+  ],
+  "edit_p": [
+    {
+      "type": 0,
+      "value": "Profilni taxrirlash"
+    }
+  ],
+  "edit_product": [
+    {
+      "type": 0,
+      "value": "Mahsulotni tahrirlash"
+    }
+  ],
+  "email": [
+    {
+      "type": 0,
+      "value": "Elektron pochta"
+    }
+  ],
+  "empty": [
+    {
+      "type": 0,
+      "value": "Bo'sh"
+    }
+  ],
+  "empty_cart": [
+    {
+      "type": 0,
+      "value": "Sizning savatchangiz bo'sh. Xarid qilishni boshlang"
+    }
+  ],
+  "error_booking": [
+    {
+      "type": 0,
+      "value": "Nimadir noto'g'ri bajarildi"
+    }
+  ],
+  "estimated_delivery": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish vaqti"
+    }
+  ],
+  "footer_header_link1": [
+    {
+      "type": 0,
+      "value": "Kompaniya haqida"
+    }
+  ],
+  "footer_header_link1_sublink1": [
+    {
+      "type": 0,
+      "value": "Biz haqimizda"
+    }
+  ],
+  "footer_header_link1_sublink2": [
+    {
+      "type": 0,
+      "value": "Karyera"
+    }
+  ],
+  "footer_header_link1_sublink3": [
+    {
+      "type": 0,
+      "value": "Bo'sh ish o'rinlari"
+    }
+  ],
+  "footer_header_link1_sublink4": [
+    {
+      "type": 0,
+      "value": "Hamkorlik"
+    }
+  ],
+  "footer_header_link2": [
+    {
+      "type": 0,
+      "value": "Mijozlarga xizmat"
+    }
+  ],
+  "footer_header_link2_sublink1": [
+    {
+      "type": 0,
+      "value": "Yordam markazi"
+    }
+  ],
+  "footer_header_link2_sublink2": [
+    {
+      "type": 0,
+      "value": "Qanday sotib olish mumkin"
+    }
+  ],
+  "footer_header_link2_sublink3": [
+    {
+      "type": 0,
+      "value": "Qaytarish"
+    }
+  ],
+  "footer_header_link2_sublink4": [
+    {
+      "type": 0,
+      "value": "Xizmatlar"
+    }
+  ],
+  "footer_header_link2_sublink5": [
+    {
+      "type": 0,
+      "value": "Operatsion xizmatlar"
+    }
+  ],
+  "footer_header_link3": [
+    {
+      "type": 0,
+      "value": "Do'konlar"
+    }
+  ],
+  "full": [
+    {
+      "type": 0,
+      "value": "To'liq o'qish"
+    }
+  ],
+  "full_name": [
+    {
+      "type": 0,
+      "value": "To'liq ism"
+    }
+  ],
+  "go_back": [
+    {
+      "type": 0,
+      "value": "Ortga qaytish"
+    }
+  ],
+  "go_home": [
+    {
+      "type": 0,
+      "value": "Asosiy sahifaga qaytish"
+    }
+  ],
+  "height": [
+    {
+      "type": 0,
+      "value": "Bo'yiga"
+    }
+  ],
+  "height_unit": [
+    {
+      "type": 0,
+      "value": "Bo'yiga o'lchovi "
+    }
+  ],
+  "help": [
+    {
+      "type": 0,
+      "value": "Yordam"
+    }
+  ],
+  "help_text": [
+    {
+      "type": 0,
+      "value": "Agar sizda veb -sayt bilan bog'liq savollaringiz bo'lsa, biz bilan bog'laning"
+    }
+  ],
+  "hi": [
+    {
+      "type": 0,
+      "value": "Salom "
+    }
+  ],
+  "high_low": [
+    {
+      "type": 0,
+      "value": "Narxi yuqoridan pastga"
+    }
+  ],
+  "hisob": [
+    {
+      "type": 0,
+      "value": "Mening hisobim"
+    }
+  ],
+  "hour": [
+    {
+      "type": 0,
+      "value": "soat"
+    }
+  ],
+  "in_moderation": [
+    {
+      "type": 0,
+      "value": "O'zgartirishda"
+    }
+  ],
+  "inactive": [
+    {
+      "type": 0,
+      "value": "Faol emas"
+    }
+  ],
+  "input_phone": [
+    {
+      "type": 0,
+      "value": "Iltimos telefon raqamingizni kiriting!"
+    }
+  ],
+  "input_sms": [
+    {
+      "type": 0,
+      "value": "Iltimos, kiritilgan SMS dagi kodni kiriting"
+    }
+  ],
+  "kod": [
+    {
+      "type": 0,
+      "value": "Kod"
+    }
+  ],
+  "less": [
+    {
+      "type": 0,
+      "value": "Kamroq oqish"
+    }
+  ],
+  "login_phone": [
+    {
+      "type": 0,
+      "value": "Telefon raqami bilan ro'yhatdan o'ting"
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "Chiqish"
+    }
+  ],
+  "low_high": [
+    {
+      "type": 0,
+      "value": "Narx pastdan yuqori"
+    }
+  ],
+  "material_select": [
+    {
+      "type": 0,
+      "value": "Iltimos, mahsulotingizga tegishli materialni tanlang"
+    }
+  ],
+  "materials": [
+    {
+      "type": 0,
+      "value": "Material"
+    }
+  ],
+  "min": [
+    {
+      "type": 0,
+      "value": "minut"
+    }
+  ],
+  "mobile_navigation_account": [
+    {
+      "type": 0,
+      "value": "Akkount"
+    }
+  ],
+  "mobile_navigation_category": [
+    {
+      "type": 0,
+      "value": "Kategoriya"
+    }
+  ],
+  "mobile_navigation_home": [
+    {
+      "type": 0,
+      "value": "Asosiy"
+    }
+  ],
+  "my_profile": [
+    {
+      "type": 0,
+      "value": "Mening profilim"
+    }
+  ],
+  "need_help": [
+    {
+      "type": 0,
+      "value": "Yordam kerakmi?"
+    }
+  ],
+  "need_today": [
+    {
+      "type": 0,
+      "value": "Bugun kerakmi?"
+    }
+  ],
+  "none_orders": [
+    {
+      "type": 0,
+      "value": "Sizning do'koningizdan hech narsa buyurtma qilinmagan"
+    }
+  ],
+  "off(chegirma)": [
+    {
+      "type": 0,
+      "value": "Chegirma"
+    }
+  ],
+  "order_again": [
+    {
+      "type": 0,
+      "value": "Qayta buyurtma"
+    }
+  ],
+  "order_not_found": [
+    {
+      "type": 0,
+      "value": " sonli buyurtma topilmadi"
+    }
+  ],
+  "order_status": [
+    {
+      "type": 0,
+      "value": "Buyurtma holati"
+    }
+  ],
+  "orders": [
+    {
+      "type": 0,
+      "value": "Mening buyurtmalarim"
+    }
+  ],
+  "packaging": [
+    {
+      "type": 0,
+      "value": "Qadoqlash jarayonida"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "To'lov"
+    }
+  ],
+  "payment_methods": [
+    {
+      "type": 0,
+      "value": "To'lov usullari"
+    }
+  ],
+  "phone_number": [
+    {
+      "type": 0,
+      "value": "Telefon raqam"
+    }
+  ],
+  "postcard text": [
+    {
+      "type": 0,
+      "value": "Otkridka matni"
+    }
+  ],
+  "price_with_delivery": [
+    {
+      "type": 0,
+      "value": "Yetkazib berish bilan narxi"
+    }
+  ],
+  "products_total_price": [
+    {
+      "type": 0,
+      "value": "Mahsulotlarning umumiy narxi"
+    }
+  ],
+  "profile_info": [
+    {
+      "type": 0,
+      "value": "Profil haqida ma'lumot"
+    }
+  ],
+  "rating": [
+    {
+      "type": 0,
+      "value": "Baholangan"
+    }
+  ],
+  "rating_required": [
+    {
+      "type": 0,
+      "value": "Baho qo'yish majburiy"
+    }
+  ],
+  "recaptcha_verify": [
+    {
+      "type": 0,
+      "value": "Iltimos, oʻzingizni verifikatsiya orqali bot emasligingizni tasdiqlang"
+    }
+  ],
+  "register": [
+    {
+      "type": 0,
+      "value": "Registratsiya"
+    }
+  ],
+  "related_product": [
+    {
+      "type": 0,
+      "value": "Aloqador mahsulotlar"
+    }
+  ],
+  "replenish": [
+    {
+      "type": 0,
+      "value": "Hamyonni to'ldirish"
+    }
+  ],
+  "required_description": [
+    {
+      "type": 0,
+      "value": "Tavsif talab qilinadi"
+    }
+  ],
+  "results_found": [
+    {
+      "type": 0,
+      "value": "natijalar topildi"
+    }
+  ],
+  "review_placeholder": [
+    {
+      "type": 0,
+      "value": "Bu yerda sharh yozing ..."
+    }
+  ],
+  "rows_per_page": [
+    {
+      "type": 0,
+      "value": "Satrlar"
+    }
+  ],
+  "sale_price": [
+    {
+      "type": 0,
+      "value": "Sotish narxi"
+    }
+  ],
+  "search": [
+    {
+      "type": 0,
+      "value": "Qidiring va Enter tugmasini bosing..."
+    }
+  ],
+  "search_for": [
+    {
+      "type": 0,
+      "value": "Qidiruv so'zi: "
+    }
+  ],
+  "section12_item1_text": [
+    {
+      "type": 0,
+      "value": "Toshkent bo'ylab tezkor yetkazib berish"
+    }
+  ],
+  "section12_item1_title": [
+    {
+      "type": 0,
+      "value": "Tezkor yetkazib berish"
+    }
+  ],
+  "section12_item2_text": [
+    {
+      "type": 0,
+      "value": " Eng yangi gullarning katta assortimenti"
+    }
+  ],
+  "section12_item2_title": [
+    {
+      "type": 0,
+      "value": "Yangi gullar"
+    }
+  ],
+  "section12_item3_text": [
+    {
+      "type": 0,
+      "value": " Doimiy mijozlar uchun bonusli chegirmalar tizimi"
+    }
+  ],
+  "section12_item3_title": [
+    {
+      "type": 0,
+      "value": "Chegirmalar"
+    }
+  ],
+  "section12_item4_text": [
+    {
+      "type": 0,
+      "value": " Xavfsiz to'lov usullari yordamida to'lash"
+    }
+  ],
+  "section12_item4_title": [
+    {
+      "type": 0,
+      "value": "Xavfsiz to'lov"
+    }
+  ],
+  "section12_title": [
+    {
+      "type": 0,
+      "value": "Iste'molchilarning bizning xizmatimizga munosabati"
+    }
+  ],
+  "select_files": [
+    {
+      "type": 0,
+      "value": "Fayllarni tanlang"
+    }
+  ],
+  "select_gender": [
+    {
+      "type": 0,
+      "value": "Jinsingiz"
+    }
+  ],
+  "select_image": [
+    {
+      "type": 0,
+      "value": "Iltimos, rasmni tanlang"
+    }
+  ],
+  "select_location": [
+    {
+      "type": 0,
+      "value": "Joyni tanlang"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "Saqlash"
+    }
+  ],
+  "send(jonatish)": [
+    {
+      "type": 0,
+      "value": "Yuborish"
+    }
+  ],
+  "send_again": [
+    {
+      "type": 0,
+      "value": "Kodni qayta yuboring"
+    }
+  ],
+  "send_ask_again": [
+    {
+      "type": 0,
+      "value": "Siz 1 daqiqadan so'ng kodni qayta yuborishni so'rashingiz mumkin"
+    }
+  ],
+  "send_message": [
+    {
+      "type": 0,
+      "value": "Kodni yuboring"
+    }
+  ],
+  "shop": [
+    {
+      "type": 0,
+      "value": "Mening do'konlarim"
+    }
+  ],
+  "shop_links": [
+    {
+      "type": 0,
+      "value": "Sizning do'koningiz bilan bog'liq havolalar (Kanal, Facebook, Youtube ....)"
+    }
+  ],
+  "shop_name": [
+    {
+      "type": 0,
+      "value": "Do'kon nomi"
+    }
+  ],
+  "shop_review": [
+    {
+      "type": 0,
+      "value": "Ushbu do'kon haqida fikr qoldiring"
+    }
+  ],
+  "site": [
+    {
+      "type": 0,
+      "value": "Sayt"
+    }
+  ],
+  "social_links": [
+    {
+      "type": 0,
+      "value": "Ijtimoiy tarmoqlar"
+    }
+  ],
+  "sold_by": [
+    {
+      "type": 0,
+      "value": "Sotuvchi"
+    }
+  ],
+  "stock_available": [
+    {
+      "type": 0,
+      "value": "Omborda bor"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "Yuborish"
+    }
+  ],
+  "successfully_booked": [
+    {
+      "type": 0,
+      "value": "Siz buyurtmani muvaffaqqiyatli amalga oshirdingiz"
+    }
+  ],
+  "sum": [
+    {
+      "type": 0,
+      "value": "so'm"
+    }
+  ],
+  "support_tickets": [
+    {
+      "type": 0,
+      "value": "Yordam chiptalari"
+    }
+  ],
+  "text_below_postcard": [
+    {
+      "type": 0,
+      "value": "Biz oluvchiga gullarning kimligini aytmaymiz. Agar qabul qiluvchingiz sovg'ani kim yuborganini bilishini istasangiz obuna bo'ling"
+    }
+  ],
+  "text_required": [
+    {
+      "type": 0,
+      "value": "Fikr bildirish majburiy"
+    }
+  ],
+  "top_category": [
+    {
+      "type": 0,
+      "value": "Top kategoriyalar"
+    }
+  ],
+  "total_summary": [
+    {
+      "type": 0,
+      "value": "Umumiy hisob"
+    }
+  ],
+  "unit": [
+    {
+      "type": 0,
+      "value": "Birlik"
+    }
+  ],
+  "unit_select": [
+    {
+      "type": 0,
+      "value": "Iltimos, mahsulotingizga mos keladigan bitta birlikni tanlang"
+    }
+  ],
+  "units_error": [
+    {
+      "type": 0,
+      "value": "Iltimos, uzunlik birliklaridan birini tanlang"
+    }
+  ],
+  "update_vendor_info_button": [
+    {
+      "type": 0,
+      "value": "Sotuvchi haqidagi ma'lumotlarni yangilang"
+    }
+  ],
+  "upload_images": [
+    {
+      "type": 0,
+      "value": "Rasmlarni yuklash"
+    }
+  ],
+  "user": [
+    {
+      "type": 0,
+      "value": "Kirish"
+    }
+  ],
+  "view_all": [
+    {
+      "type": 0,
+      "value": "Hammasi"
+    }
+  ],
+  "visit_Shop": [
+    {
+      "type": 0,
+      "value": "Do'konga kirish"
+    }
+  ],
+  "wallet": [
+    {
+      "type": 0,
+      "value": "Hamyon"
+    }
+  ],
+  "wallet_instructions": [
+    {
+      "type": 0,
+      "value": "Hamyoningizdagi hisobdan e'lonlar reklama qilish,to'plam va alohida e'lonlar sotib olishda foydalaning"
+    }
+  ],
+  "welcome_login": [
+    {
+      "type": 0,
+      "value": "Gullar do'koniga xush kelibsiz"
+    }
+  ],
+  "width": [
+    {
+      "type": 0,
+      "value": "Eniga"
+    }
+  ],
+  "width_unit": [
+    {
+      "type": 0,
+      "value": "Eniga  o'lchovi "
+    }
+  ],
+  "wishlist": [
+    {
+      "type": 0,
+      "value": "Sevimlilar"
+    }
+  ],
+  "work_end_time": [
+    {
+      "type": 0,
+      "value": "Ishning tugash vaqti"
+    }
+  ],
+  "work_start_time": [
+    {
+      "type": 0,
+      "value": "Ishning boshlanish vaqti"
+    }
+  ],
+  "write_review": [
+    {
+      "type": 0,
+      "value": "Ushbu mahsulot haqida sharh yozing"
+    }
+  ],
+  "your_address": [
+    {
+      "type": 0,
+      "value": "Sizning manzilingiz"
+    }
+  ],
+  "your_address_map": [
+    {
+      "type": 0,
+      "value": "Sizning manzilingiz (xaritadagi manzilni belgilang)"
+    }
+  ],
+  "youtube": [
+    {
+      "type": 0,
+      "value": "YouTube"
+    }
+  ]
+}

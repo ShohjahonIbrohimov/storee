@@ -1,0 +1,101 @@
+@media screen and (max-width: 650px) {
+  .title_category_Section_header {
+    font-size: 15px !important;
+    text-transform: none;
+  }
+  .more_category_section_header {
+    text-transform: none;
+    font-size: 10px;
+  }
+  .visit_shop_style {
+    position: absolute;
+    right: -50px;
+    width: fit-content;
+    top: 17px;
+    text-decoration: none;
+    color: black;
+    float: right;
+    cursor: pointer;
+    overflow: hidden;
+    text-transform: none;
+    text-overflow: ellipsis;
+    text-align: right;
+    white-space: nowrap;
+  }
+  .margin_bottom_50 {
+    margin-bottom: 40px !important;
+  }
+  .subscribe_shop_style {
+    position: absolute;
+    right: 41px;
+    top: 285px;
+  }
+  .shop_name_shop{
+      padding:4px 0px !important;
+  }
+  .shop_name_container{
+    margin-bottom: 10px !important;
+  }
+  .cart_productcard1_style{
+    margin-bottom: 20px;
+  }
+  .rating_productcard1_style{
+    margin-top: -5px;
+    margin-bottom: 5px;
+  }
+  .detail_product_card1_style{
+    padding-bottom: -30px;
+    height: 80px;
+  }
+  .order_class4{
+    width: 120px !important;
+    /*text-align: center !important;*/
+    padding: 3px 15px !important;
+  }
+  .social-links{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .shop_order4{
+    position: relative !important;
+    padding: 2px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+
+
+  }
+  #uzcard{
+    margin-top: 5px !important;
+  }
+  .shop_order_delivery_price{
+    /*width: 100px !important;*/
+    /*overflow: hidden !important;*/
+    /*text-overflow: ellipsis;*/
+    overflow: hidden;
+    width: 150px;
+    justify-content:center !important;
+  }
+  .shop_order_status_name{
+    text-align: center !important;
+    margin-left: 20px;
+    margin-right: 5px;
+
+
+  }
+  .shop_order4{
+    width: 100px !important;
+  }
+  .shop_orders_table{
+    display: flex !important;
+    padding: 5px;
+    flex: none !important;
+    justify-content:left;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width: 100% !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+
+  }
+}

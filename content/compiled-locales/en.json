@@ -1,0 +1,1472 @@
+{
+  "Add PostCard": [
+    {
+      "type": 0,
+      "value": "Add postCard"
+    }
+  ],
+  "All": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "Amount": [
+    {
+      "type": 0,
+      "value": "Amount"
+    }
+  ],
+  "Any Document": [
+    {
+      "type": 0,
+      "value": "Any document"
+    }
+  ],
+  "Apply Voucher": [
+    {
+      "type": 0,
+      "value": "Apply voucher"
+    }
+  ],
+  "Back To Order List": [
+    {
+      "type": 0,
+      "value": "Back to order list"
+    }
+  ],
+  "Back to Product List": [
+    {
+      "type": 0,
+      "value": "Back to product list"
+    }
+  ],
+  "Back to cart": [
+    {
+      "type": 0,
+      "value": "Back to cart"
+    }
+  ],
+  "Booked": [
+    {
+      "type": 0,
+      "value": "Number of booked products in advance"
+    }
+  ],
+  "Buy Now": [
+    {
+      "type": 0,
+      "value": "Buy now"
+    }
+  ],
+  "Cards": [
+    {
+      "type": 0,
+      "value": "Cards"
+    }
+  ],
+  "Cash": [
+    {
+      "type": 0,
+      "value": "Cash"
+    }
+  ],
+  "Checkout Now": [
+    {
+      "type": 0,
+      "value": "Checkout now"
+    }
+  ],
+  "Choose Your Gender": [
+    {
+      "type": 0,
+      "value": "Your gender"
+    }
+  ],
+  "Consumed_products": [
+    {
+      "type": 0,
+      "value": "Used products"
+    }
+  ],
+  "Corparative Sales": [
+    {
+      "type": 0,
+      "value": "Corparative service"
+    }
+  ],
+  "Date Purchased": [
+    {
+      "type": 0,
+      "value": "Date purchased"
+    }
+  ],
+  "Delivery Time": [
+    {
+      "type": 0,
+      "value": "Delivery time"
+    }
+  ],
+  "Details": [
+    {
+      "type": 0,
+      "value": "Details"
+    }
+  ],
+  "Discount": [
+    {
+      "type": 0,
+      "value": "Discount"
+    }
+  ],
+  "Discount(without percentage)": [
+    {
+      "type": 0,
+      "value": "Discount % (optional)"
+    }
+  ],
+  "Female": [
+    {
+      "type": 0,
+      "value": "Female"
+    }
+  ],
+  "Free": [
+    {
+      "type": 0,
+      "value": "free"
+    }
+  ],
+  "Full Description": [
+    {
+      "type": 0,
+      "value": "Full description"
+    }
+  ],
+  "Male": [
+    {
+      "type": 0,
+      "value": "Male"
+    }
+  ],
+  "My Orders": [
+    {
+      "type": 0,
+      "value": "My orders"
+    }
+  ],
+  "Name": [
+    {
+      "type": 0,
+      "value": "Name"
+    }
+  ],
+  "Order": [
+    {
+      "type": 0,
+      "value": "Order"
+    }
+  ],
+  "Order Details": [
+    {
+      "type": 0,
+      "value": "Order details"
+    }
+  ],
+  "Order ID": [
+    {
+      "type": 0,
+      "value": "Order ID"
+    }
+  ],
+  "Order_#": [
+    {
+      "type": 0,
+      "value": "Order #"
+    }
+  ],
+  "Placed On": [
+    {
+      "type": 0,
+      "value": "Placed on"
+    }
+  ],
+  "Price Range": [
+    {
+      "type": 0,
+      "value": "Price range"
+    }
+  ],
+  "Product Name": [
+    {
+      "type": 0,
+      "value": "Product name"
+    }
+  ],
+  "Products": [
+    {
+      "type": 0,
+      "value": "Products"
+    }
+  ],
+  "Regular Price": [
+    {
+      "type": 0,
+      "value": "Price"
+    }
+  ],
+  "Review": [
+    {
+      "type": 0,
+      "value": "Review"
+    }
+  ],
+  "Select List": [
+    {
+      "type": 0,
+      "value": "Select List"
+    }
+  ],
+  "Shipping": [
+    {
+      "type": 0,
+      "value": "Shipping"
+    }
+  ],
+  "Shops": [
+    {
+      "type": 0,
+      "value": "Shops"
+    }
+  ],
+  "Sort By": [
+    {
+      "type": 0,
+      "value": "Sort by price"
+    }
+  ],
+  "Status": [
+    {
+      "type": 0,
+      "value": "Status"
+    }
+  ],
+  "Subscribe": [
+    {
+      "type": 0,
+      "value": "Subscribe"
+    }
+  ],
+  "Subscribed": [
+    {
+      "type": 0,
+      "value": "Unsubscribe"
+    }
+  ],
+  "Subtotal": [
+    {
+      "type": 0,
+      "value": "Subtotal"
+    }
+  ],
+  "Total": [
+    {
+      "type": 0,
+      "value": "Total"
+    }
+  ],
+  "Type": [
+    {
+      "type": 0,
+      "value": "Type"
+    }
+  ],
+  "Used Products": [
+    {
+      "type": 0,
+      "value": "Materials"
+    }
+  ],
+  "Validity Period": [
+    {
+      "type": 0,
+      "value": "Validity period"
+    }
+  ],
+  "Voucher": [
+    {
+      "type": 0,
+      "value": "Voucher"
+    }
+  ],
+  "Your Message": [
+    {
+      "type": 0,
+      "value": "Your message"
+    }
+  ],
+  "Your Rating": [
+    {
+      "type": 0,
+      "value": "Your rating"
+    }
+  ],
+  "Your Review": [
+    {
+      "type": 0,
+      "value": "Your review"
+    }
+  ],
+  "Your_order": [
+    {
+      "type": 0,
+      "value": "Your order"
+    }
+  ],
+  "accepted_convenient_payment": [
+    {
+      "type": 0,
+      "value": ". Please choose convenient payment method"
+    }
+  ],
+  "account_settings": [
+    {
+      "type": 0,
+      "value": "Account settings"
+    }
+  ],
+  "active": [
+    {
+      "type": 0,
+      "value": "Active"
+    }
+  ],
+  "add_all_cart": [
+    {
+      "type": 0,
+      "value": "Add all to the cart"
+    }
+  ],
+  "add_comment_success": [
+    {
+      "type": 0,
+      "value": "You commented successfully"
+    }
+  ],
+  "add_links": [
+    {
+      "type": 0,
+      "value": "Add link + "
+    }
+  ],
+  "add_new_product": [
+    {
+      "type": 0,
+      "value": "Add new product"
+    }
+  ],
+  "add_product": [
+    {
+      "type": 0,
+      "value": "Add product"
+    }
+  ],
+  "add_to_cart": [
+    {
+      "type": 0,
+      "value": "Add to cart"
+    }
+  ],
+  "add_used_products": [
+    {
+      "type": 0,
+      "value": "Add used product + "
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Address"
+    }
+  ],
+  "all_rights": [
+    {
+      "type": 0,
+      "value": "© 2021 dana.uz - All rights reserved"
+    }
+  ],
+  "back_to_product_list": [
+    {
+      "type": 0,
+      "value": "Back to product list"
+    }
+  ],
+  "background_image_error": [
+    {
+      "type": 0,
+      "value": "Please choose background image"
+    }
+  ],
+  "balance": [
+    {
+      "type": 0,
+      "value": "Balance:"
+    }
+  ],
+  "banner_button": [
+    {
+      "type": 0,
+      "value": "Visit"
+    }
+  ],
+  "birthdate": [
+    {
+      "type": 0,
+      "value": "Birthday"
+    }
+  ],
+  "blocked": [
+    {
+      "type": 0,
+      "value": "Blocked"
+    }
+  ],
+  "bonus": [
+    {
+      "type": 0,
+      "value": "Bonus"
+    }
+  ],
+  "book": [
+    {
+      "type": 0,
+      "value": "Shopping"
+    }
+  ],
+  "budget": [
+    {
+      "type": 0,
+      "value": "Balance"
+    }
+  ],
+  "budget_fulfill": [
+    {
+      "type": 0,
+      "value": "Input amount of money"
+    }
+  ],
+  "business_account": [
+    {
+      "type": 0,
+      "value": "Business account"
+    }
+  ],
+  "button_check_status": [
+    {
+      "type": 0,
+      "value": "click check order status."
+    }
+  ],
+  "cart": [
+    {
+      "type": 0,
+      "value": "Cart"
+    }
+  ],
+  "cashback": [
+    {
+      "type": 0,
+      "value": "Cashback"
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "value": "Categories"
+    }
+  ],
+  "category_name": [
+    {
+      "type": 0,
+      "value": "Category name"
+    }
+  ],
+  "changed_info_success": [
+    {
+      "type": 0,
+      "value": "Your profile infos changed sucessfully"
+    }
+  ],
+  "check_button_status": [
+    {
+      "type": 0,
+      "value": "Check order status"
+    }
+  ],
+  "check_order_status": [
+    {
+      "type": 0,
+      "value": "To find out the status of the order and pay, enter its number and "
+    }
+  ],
+  "choose_category": [
+    {
+      "type": 0,
+      "value": "Please choose category"
+    }
+  ],
+  "choose_delivery_time": [
+    {
+      "type": 0,
+      "value": "Choose delivery time from options"
+    }
+  ],
+  "choose_length_scales": [
+    {
+      "type": 0,
+      "value": "Please refer to one of the length scales"
+    }
+  ],
+  "choose_place_map": [
+    {
+      "type": 0,
+      "value": "Please select place from map"
+    }
+  ],
+  "company_name": [
+    {
+      "type": 0,
+      "value": "Company Name"
+    }
+  ],
+  "connectUs": [
+    {
+      "type": 0,
+      "value": "Connect us"
+    }
+  ],
+  "connectUsText": [
+    {
+      "type": 0,
+      "value": "it will come soon"
+    }
+  ],
+  "connect_A": [
+    {
+      "type": 0,
+      "value": "Contact the admin"
+    }
+  ],
+  "contact": [
+    {
+      "type": 0,
+      "value": "Contact"
+    }
+  ],
+  "corporate_send_sucess": [
+    {
+      "type": 0,
+      "value": "Message is sent successfully"
+    }
+  ],
+  "correct_password": [
+    {
+      "type": 0,
+      "value": "Please input correct code"
+    }
+  ],
+  "correct_phone": [
+    {
+      "type": 0,
+      "value": "Please input telephone number in correct way "
+    }
+  ],
+  "create_shop": [
+    {
+      "type": 0,
+      "value": "Create shop"
+    }
+  ],
+  "create_shop_success": [
+    {
+      "type": 0,
+      "value": "Shop is created successfully"
+    }
+  ],
+  "currency": [
+    {
+      "type": 0,
+      "value": "Currency"
+    }
+  ],
+  "currency_required": [
+    {
+      "type": 0,
+      "value": "Please, choose currency"
+    }
+  ],
+  "currency_unit": [
+    {
+      "type": 0,
+      "value": "Please select one of currency"
+    }
+  ],
+  "dashboard": [
+    {
+      "type": 0,
+      "value": "Others"
+    }
+  ],
+  "date": [
+    {
+      "type": 0,
+      "value": "Date"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Delete"
+    }
+  ],
+  "deliver": [
+    {
+      "type": 0,
+      "value": "Delivery terms"
+    }
+  ],
+  "delivered": [
+    {
+      "type": 0,
+      "value": "Delivered"
+    }
+  ],
+  "delivering": [
+    {
+      "type": 0,
+      "value": "Delivering"
+    }
+  ],
+  "delivery_price": [
+    {
+      "type": 0,
+      "value": "Delivery price"
+    }
+  ],
+  "delivery_time": [
+    {
+      "type": 0,
+      "value": "Delivery time"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "Description"
+    }
+  ],
+  "desktop_navigation_cabinet": [
+    {
+      "type": 0,
+      "value": "Cabinet"
+    }
+  ],
+  "document": [
+    {
+      "type": 0,
+      "value": "Documents"
+    }
+  ],
+  "drag_drop": [
+    {
+      "type": 0,
+      "value": "Drag & drop product image here"
+    }
+  ],
+  "edit_p": [
+    {
+      "type": 0,
+      "value": "Edit profile"
+    }
+  ],
+  "edit_product": [
+    {
+      "type": 0,
+      "value": "Edit product"
+    }
+  ],
+  "email": [
+    {
+      "type": 0,
+      "value": "Email"
+    }
+  ],
+  "empty": [
+    {
+      "type": 0,
+      "value": "Empty"
+    }
+  ],
+  "empty_cart": [
+    {
+      "type": 0,
+      "value": "Your shopping bag is empty. Start shopping"
+    }
+  ],
+  "error_booking": [
+    {
+      "type": 0,
+      "value": "Something went wrong"
+    }
+  ],
+  "estimated_delivery": [
+    {
+      "type": 0,
+      "value": "Estimated delivery date"
+    }
+  ],
+  "footer_header_link1": [
+    {
+      "type": 0,
+      "value": "About company"
+    }
+  ],
+  "footer_header_link1_sublink1": [
+    {
+      "type": 0,
+      "value": "About us"
+    }
+  ],
+  "footer_header_link1_sublink2": [
+    {
+      "type": 0,
+      "value": "Careers"
+    }
+  ],
+  "footer_header_link1_sublink3": [
+    {
+      "type": 0,
+      "value": "Vacancies"
+    }
+  ],
+  "footer_header_link1_sublink4": [
+    {
+      "type": 0,
+      "value": "Cooperation"
+    }
+  ],
+  "footer_header_link2": [
+    {
+      "type": 0,
+      "value": "Customer care"
+    }
+  ],
+  "footer_header_link2_sublink1": [
+    {
+      "type": 0,
+      "value": "Help center"
+    }
+  ],
+  "footer_header_link2_sublink2": [
+    {
+      "type": 0,
+      "value": "How to buy"
+    }
+  ],
+  "footer_header_link2_sublink3": [
+    {
+      "type": 0,
+      "value": "Returns & refunds"
+    }
+  ],
+  "footer_header_link2_sublink4": [
+    {
+      "type": 0,
+      "value": "Services"
+    }
+  ],
+  "footer_header_link2_sublink5": [
+    {
+      "type": 0,
+      "value": "Operating services"
+    }
+  ],
+  "footer_header_link3": [
+    {
+      "type": 0,
+      "value": "Shops"
+    }
+  ],
+  "full": [
+    {
+      "type": 0,
+      "value": "Read more"
+    }
+  ],
+  "full_name": [
+    {
+      "type": 0,
+      "value": "Full name"
+    }
+  ],
+  "go_back": [
+    {
+      "type": 0,
+      "value": "Go back"
+    }
+  ],
+  "go_home": [
+    {
+      "type": 0,
+      "value": "Go to home"
+    }
+  ],
+  "height": [
+    {
+      "type": 0,
+      "value": "Height"
+    }
+  ],
+  "height_unit": [
+    {
+      "type": 0,
+      "value": "Height unit"
+    }
+  ],
+  "help": [
+    {
+      "type": 0,
+      "value": "Help"
+    }
+  ],
+  "help_text": [
+    {
+      "type": 0,
+      "value": "If you have any question related to website ,connect with us"
+    }
+  ],
+  "hi": [
+    {
+      "type": 0,
+      "value": "Hello "
+    }
+  ],
+  "high_low": [
+    {
+      "type": 0,
+      "value": "Price high to low"
+    }
+  ],
+  "hisob": [
+    {
+      "type": 0,
+      "value": "My balance"
+    }
+  ],
+  "hour": [
+    {
+      "type": 0,
+      "value": "hour"
+    }
+  ],
+  "in_moderation": [
+    {
+      "type": 0,
+      "value": "In moderation"
+    }
+  ],
+  "inactive": [
+    {
+      "type": 0,
+      "value": "Inactive"
+    }
+  ],
+  "input_phone": [
+    {
+      "type": 0,
+      "value": "Please input your telephone number!"
+    }
+  ],
+  "input_sms": [
+    {
+      "type": 0,
+      "value": "Please input the code that is sent"
+    }
+  ],
+  "item": [
+    {
+      "type": 0,
+      "value": "item"
+    }
+  ],
+  "kod": [
+    {
+      "type": 0,
+      "value": "Code"
+    }
+  ],
+  "less": [
+    {
+      "type": 0,
+      "value": "Read less"
+    }
+  ],
+  "login_phone": [
+    {
+      "type": 0,
+      "value": "Register with your telephone number"
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "Log out"
+    }
+  ],
+  "low_high": [
+    {
+      "type": 0,
+      "value": "Price low to high"
+    }
+  ],
+  "material_select": [
+    {
+      "type": 0,
+      "value": "Please select one material which related to your product"
+    }
+  ],
+  "materials": [
+    {
+      "type": 0,
+      "value": "Material"
+    }
+  ],
+  "min": [
+    {
+      "type": 0,
+      "value": "minute"
+    }
+  ],
+  "mobile_navigation_account": [
+    {
+      "type": 0,
+      "value": "Account"
+    }
+  ],
+  "mobile_navigation_category": [
+    {
+      "type": 0,
+      "value": "Category"
+    }
+  ],
+  "mobile_navigation_home": [
+    {
+      "type": 0,
+      "value": "Home"
+    }
+  ],
+  "my_profile": [
+    {
+      "type": 0,
+      "value": "My profile"
+    }
+  ],
+  "need_help": [
+    {
+      "type": 0,
+      "value": "Need help?"
+    }
+  ],
+  "need_today": [
+    {
+      "type": 0,
+      "value": "Need today?"
+    }
+  ],
+  "none_orders": [
+    {
+      "type": 0,
+      "value": "Nothing is booked from your shop"
+    }
+  ],
+  "off(chegirma)": [
+    {
+      "type": 0,
+      "value": "Off"
+    }
+  ],
+  "order_again": [
+    {
+      "type": 0,
+      "value": "Order again"
+    }
+  ],
+  "order_not_found": [
+    {
+      "type": 0,
+      "value": " order was not found"
+    }
+  ],
+  "order_status": [
+    {
+      "type": 0,
+      "value": "Order status"
+    }
+  ],
+  "orders": [
+    {
+      "type": 0,
+      "value": "My orders"
+    }
+  ],
+  "packaging": [
+    {
+      "type": 0,
+      "value": "Packaging"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "Payment"
+    }
+  ],
+  "payment_methods": [
+    {
+      "type": 0,
+      "value": "Payment methods"
+    }
+  ],
+  "phone_number": [
+    {
+      "type": 0,
+      "value": "Phone number"
+    }
+  ],
+  "postcard text": [
+    {
+      "type": 0,
+      "value": "PostCard text"
+    }
+  ],
+  "price_with_delivery": [
+    {
+      "type": 0,
+      "value": "Price(included delivery)"
+    }
+  ],
+  "products_total_price": [
+    {
+      "type": 0,
+      "value": "Total price of products"
+    }
+  ],
+  "profile_info": [
+    {
+      "type": 0,
+      "value": "Info about profile"
+    }
+  ],
+  "rating": [
+    {
+      "type": 0,
+      "value": "Rated"
+    }
+  ],
+  "rating_required": [
+    {
+      "type": 0,
+      "value": "Rating is required"
+    }
+  ],
+  "recaptcha_verify": [
+    {
+      "type": 0,
+      "value": "Please verify yourself"
+    }
+  ],
+  "register": [
+    {
+      "type": 0,
+      "value": "Register"
+    }
+  ],
+  "related_product": [
+    {
+      "type": 0,
+      "value": "Related products"
+    }
+  ],
+  "replenish": [
+    {
+      "type": 0,
+      "value": "Fill your wallet"
+    }
+  ],
+  "required_description": [
+    {
+      "type": 0,
+      "value": "Description is required"
+    }
+  ],
+  "results_found": [
+    {
+      "type": 0,
+      "value": "results found"
+    }
+  ],
+  "review_placeholder": [
+    {
+      "type": 0,
+      "value": "Write a review here..."
+    }
+  ],
+  "rows_per_page": [
+    {
+      "type": 0,
+      "value": "Rows per page"
+    }
+  ],
+  "sale_price": [
+    {
+      "type": 0,
+      "value": "Sale price"
+    }
+  ],
+  "search": [
+    {
+      "type": 0,
+      "value": "Search and press enter..."
+    }
+  ],
+  "search_for": [
+    {
+      "type": 0,
+      "value": "Searching for:"
+    }
+  ],
+  "section12_item1_text": [
+    {
+      "type": 0,
+      "value": " We offer competitive prices on our 100 million plus product any range."
+    }
+  ],
+  "section12_item1_title": [
+    {
+      "type": 0,
+      "value": "Worldwide delivery"
+    }
+  ],
+  "section12_item2_text": [
+    {
+      "type": 0,
+      "value": " We offer competitive prices on our 100 million plus product any range."
+    }
+  ],
+  "section12_item2_title": [
+    {
+      "type": 0,
+      "value": "Worldwide delivery"
+    }
+  ],
+  "section12_item3_text": [
+    {
+      "type": 0,
+      "value": " We offer competitive prices on our 100 million plus product any range."
+    }
+  ],
+  "section12_item3_title": [
+    {
+      "type": 0,
+      "value": "Worldwide delivery"
+    }
+  ],
+  "section12_item4_text": [
+    {
+      "type": 0,
+      "value": " We offer competitive prices on our 100 million plus product any range."
+    }
+  ],
+  "section12_item4_title": [
+    {
+      "type": 0,
+      "value": "Worldwide delivery"
+    }
+  ],
+  "section12_title": [
+    {
+      "type": 0,
+      "value": "Consumers' reactions to our service"
+    }
+  ],
+  "select_files": [
+    {
+      "type": 0,
+      "value": "Select Files"
+    }
+  ],
+  "select_gender": [
+    {
+      "type": 0,
+      "value": "Your gender"
+    }
+  ],
+  "select_image": [
+    {
+      "type": 0,
+      "value": "Please select image"
+    }
+  ],
+  "select_location": [
+    {
+      "type": 0,
+      "value": "Select location"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "Save"
+    }
+  ],
+  "send(jonatish)": [
+    {
+      "type": 0,
+      "value": "Send"
+    }
+  ],
+  "send_again": [
+    {
+      "type": 0,
+      "value": "Resend the code"
+    }
+  ],
+  "send_ask_again": [
+    {
+      "type": 0,
+      "value": "You could ask to resend code after 1 minute"
+    }
+  ],
+  "send_message": [
+    {
+      "type": 0,
+      "value": "Send code"
+    }
+  ],
+  "shop": [
+    {
+      "type": 0,
+      "value": "My shops"
+    }
+  ],
+  "shop_links": [
+    {
+      "type": 0,
+      "value": "Links(Channel,Facebook, Youtube....) related to your shop"
+    }
+  ],
+  "shop_name": [
+    {
+      "type": 0,
+      "value": "Shop name"
+    }
+  ],
+  "shop_review": [
+    {
+      "type": 0,
+      "value": "Write review about this shop"
+    }
+  ],
+  "site": [
+    {
+      "type": 0,
+      "value": "Site"
+    }
+  ],
+  "social_links": [
+    {
+      "type": 0,
+      "value": "Social networks"
+    }
+  ],
+  "sold_by": [
+    {
+      "type": 0,
+      "value": "Salesman"
+    }
+  ],
+  "stock_available": [
+    {
+      "type": 0,
+      "value": "Stock available"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "successfully_booked": [
+    {
+      "type": 0,
+      "value": "You booked successfully"
+    }
+  ],
+  "sum": [
+    {
+      "type": 0,
+      "value": "sum"
+    }
+  ],
+  "support_tickets": [
+    {
+      "type": 0,
+      "value": "Support tickets"
+    }
+  ],
+  "text_below_postcard": [
+    {
+      "type": 0,
+      "value": "We do not tell the recipient who the flowers are from. If you want your addressee to know who sent the gift, subscribe"
+    }
+  ],
+  "text_required": [
+    {
+      "type": 0,
+      "value": "Text required"
+    }
+  ],
+  "top_category": [
+    {
+      "type": 0,
+      "value": "Top categories"
+    }
+  ],
+  "total_summary": [
+    {
+      "type": 0,
+      "value": "Total summary"
+    }
+  ],
+  "unit": [
+    {
+      "type": 0,
+      "value": "Unit"
+    }
+  ],
+  "unit_select": [
+    {
+      "type": 0,
+      "value": "Please select one units which related to your product"
+    }
+  ],
+  "units_error": [
+    {
+      "type": 0,
+      "value": "Please select one of units of length"
+    }
+  ],
+  "update_vendor_info_button": [
+    {
+      "type": 0,
+      "value": "Update info of  a vendor"
+    }
+  ],
+  "upload_images": [
+    {
+      "type": 0,
+      "value": "Upload images"
+    }
+  ],
+  "user": [
+    {
+      "type": 0,
+      "value": "Log in"
+    }
+  ],
+  "view_all": [
+    {
+      "type": 0,
+      "value": "View all"
+    }
+  ],
+  "visit_Shop": [
+    {
+      "type": 0,
+      "value": "Visit shop"
+    }
+  ],
+  "wallet": [
+    {
+      "type": 0,
+      "value": "Wallet"
+    }
+  ],
+  "wallet_instructions": [
+    {
+      "type": 0,
+      "value": "Use the money in your wallet to advertise ads, purchase a collection and individual ads"
+    }
+  ],
+  "welcome_login": [
+    {
+      "type": 0,
+      "value": "Welcome Flower Store"
+    }
+  ],
+  "width": [
+    {
+      "type": 0,
+      "value": "Width"
+    }
+  ],
+  "width_unit": [
+    {
+      "type": 0,
+      "value": "Width unit"
+    }
+  ],
+  "wishlist": [
+    {
+      "type": 0,
+      "value": "Wishlist"
+    }
+  ],
+  "work_end_time": [
+    {
+      "type": 0,
+      "value": "End time of work"
+    }
+  ],
+  "work_start_time": [
+    {
+      "type": 0,
+      "value": "Beginning time of work"
+    }
+  ],
+  "write_review": [
+    {
+      "type": 0,
+      "value": "Write a review for this product"
+    }
+  ],
+  "your_address": [
+    {
+      "type": 0,
+      "value": "Your address"
+    }
+  ],
+  "your_address_map": [
+    {
+      "type": 0,
+      "value": "Your address(click place on address from map)"
+    }
+  ],
+  "youtube": [
+    {
+      "type": 0,
+      "value": "YouTube"
+    }
+  ]
+}

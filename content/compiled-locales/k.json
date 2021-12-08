@@ -1,0 +1,1466 @@
+{
+  "Add PostCard": [
+    {
+      "type": 0,
+      "value": "Oткрыткa қўшиш"
+    }
+  ],
+  "All": [
+    {
+      "type": 0,
+      "value": "Ҳаммаси"
+    }
+  ],
+  "Amount": [
+    {
+      "type": 0,
+      "value": "Миқдори"
+    }
+  ],
+  "Any Document": [
+    {
+      "type": 0,
+      "value": "Ҳар қандай ҳужжат"
+    }
+  ],
+  "Apply Voucher": [
+    {
+      "type": 0,
+      "value": "Воучерни ишлатиш"
+    }
+  ],
+  "Back To Order List": [
+    {
+      "type": 0,
+      "value": "Буюртма рўйхатига қайтиш"
+    }
+  ],
+  "Back to Product List": [
+    {
+      "type": 0,
+      "value": "Маҳсулотлар рўйхатига қайтиш"
+    }
+  ],
+  "Back to cart": [
+    {
+      "type": 0,
+      "value": "Саватга қайтиш"
+    }
+  ],
+  "Booked": [
+    {
+      "type": 0,
+      "value": "Олдиндан буюртма қилинган маҳсулотлар сони"
+    }
+  ],
+  "Buy Now": [
+    {
+      "type": 0,
+      "value": "Ҳозироқ сотиб олиш"
+    }
+  ],
+  "Cards": [
+    {
+      "type": 0,
+      "value": "Карталар"
+    }
+  ],
+  "Cash": [
+    {
+      "type": 0,
+      "value": "Нақд пул"
+    }
+  ],
+  "Checkout Now": [
+    {
+      "type": 0,
+      "value": "Xозироқ сотиб олиш"
+    }
+  ],
+  "Choose Your Gender": [
+    {
+      "type": 0,
+      "value": "Сизнинг жинсингиз"
+    }
+  ],
+  "Consumed_products": [
+    {
+      "type": 0,
+      "value": "Ишлатилган маҳсулотлар"
+    }
+  ],
+  "Corparative Sales": [
+    {
+      "type": 0,
+      "value": "Корпоратив хизмат"
+    }
+  ],
+  "Date Purchased": [
+    {
+      "type": 0,
+      "value": "Харид қилинган сана"
+    }
+  ],
+  "Delivery Time": [
+    {
+      "type": 0,
+      "value": "Йетказиб бериш вақти"
+    }
+  ],
+  "Details": [
+    {
+      "type": 0,
+      "value": "Тафсилотлар"
+    }
+  ],
+  "Discount": [
+    {
+      "type": 0,
+      "value": "Чегирма"
+    }
+  ],
+  "Discount(without percentage)": [
+    {
+      "type": 0,
+      "value": "Чегирма % дa (мажбурий эмас)"
+    }
+  ],
+  "Female": [
+    {
+      "type": 0,
+      "value": "Aёл"
+    }
+  ],
+  "Free": [
+    {
+      "type": 0,
+      "value": "бепул"
+    }
+  ],
+  "Full Description": [
+    {
+      "type": 0,
+      "value": "Тўлиқ тавсиф"
+    }
+  ],
+  "Male": [
+    {
+      "type": 0,
+      "value": "Еркак"
+    }
+  ],
+  "My Orders": [
+    {
+      "type": 0,
+      "value": "Менинг буюртмаларим"
+    }
+  ],
+  "Name": [
+    {
+      "type": 0,
+      "value": "Исм"
+    }
+  ],
+  "Order": [
+    {
+      "type": 0,
+      "value": "Буюртма"
+    }
+  ],
+  "Order Details": [
+    {
+      "type": 0,
+      "value": "Буюртма тафсилотлари"
+    }
+  ],
+  "Order ID": [
+    {
+      "type": 0,
+      "value": "Буюртма ИД"
+    }
+  ],
+  "Order_#": [
+    {
+      "type": 0,
+      "value": "Тартиб #"
+    }
+  ],
+  "Placed On": [
+    {
+      "type": 0,
+      "value": "Жойлаштирилди"
+    }
+  ],
+  "Price Range": [
+    {
+      "type": 0,
+      "value": "Нархлар оралиғи"
+    }
+  ],
+  "Product Name": [
+    {
+      "type": 0,
+      "value": "Маҳсулот номи"
+    }
+  ],
+  "Products": [
+    {
+      "type": 0,
+      "value": "Маҳсулотлар"
+    }
+  ],
+  "Regular Price": [
+    {
+      "type": 0,
+      "value": "Hарх"
+    }
+  ],
+  "Review": [
+    {
+      "type": 0,
+      "value": "Шарҳ"
+    }
+  ],
+  "Select List": [
+    {
+      "type": 0,
+      "value": "Рўйхатни танланг"
+    }
+  ],
+  "Shipping": [
+    {
+      "type": 0,
+      "value": "Йетказиб бериш"
+    }
+  ],
+  "Shops": [
+    {
+      "type": 0,
+      "value": "Магазинлар"
+    }
+  ],
+  "Sort By": [
+    {
+      "type": 0,
+      "value": "Нарх бўйича саралаш"
+    }
+  ],
+  "Status": [
+    {
+      "type": 0,
+      "value": "Статус"
+    }
+  ],
+  "Subscribe": [
+    {
+      "type": 0,
+      "value": "Обуна бўлиш"
+    }
+  ],
+  "Subscribed": [
+    {
+      "type": 0,
+      "value": "Обунани бекор қилиш"
+    }
+  ],
+  "Subtotal": [
+    {
+      "type": 0,
+      "value": "Жами"
+    }
+  ],
+  "Total": [
+    {
+      "type": 0,
+      "value": "Жами"
+    }
+  ],
+  "Type": [
+    {
+      "type": 0,
+      "value": "Тури"
+    }
+  ],
+  "Used Products": [
+    {
+      "type": 0,
+      "value": "Материаллар"
+    }
+  ],
+  "Validity Period": [
+    {
+      "type": 0,
+      "value": "Aмал қилиш муддати"
+    }
+  ],
+  "Voucher": [
+    {
+      "type": 0,
+      "value": "Воучер"
+    }
+  ],
+  "Your Message": [
+    {
+      "type": 0,
+      "value": "Сизнинг хатингиз"
+    }
+  ],
+  "Your Rating": [
+    {
+      "type": 0,
+      "value": "Сизнинг рейтингингиз"
+    }
+  ],
+  "Your Review": [
+    {
+      "type": 0,
+      "value": "Сизнинг шарҳингиз"
+    }
+  ],
+  "Your_order": [
+    {
+      "type": 0,
+      "value": "Сизнинг буюртмангиз"
+    }
+  ],
+  "accepted_convenient_payment": [
+    {
+      "type": 0,
+      "value": "қабул қилинди. Илтимос толов турини танланг"
+    }
+  ],
+  "account_settings": [
+    {
+      "type": 0,
+      "value": "Профил созламалари"
+    }
+  ],
+  "active": [
+    {
+      "type": 0,
+      "value": "Фаол"
+    }
+  ],
+  "add_all_cart": [
+    {
+      "type": 0,
+      "value": "Хаммаcини саватчага кошиш"
+    }
+  ],
+  "add_comment_success": [
+    {
+      "type": 0,
+      "value": "Муваффақиятли изоҳ қолдирдингиз"
+    }
+  ],
+  "add_links": [
+    {
+      "type": 0,
+      "value": "Линк + қўшинг"
+    }
+  ],
+  "add_new_product": [
+    {
+      "type": 0,
+      "value": "Янги маҳсулот қўшиш"
+    }
+  ],
+  "add_product": [
+    {
+      "type": 0,
+      "value": "Маҳсулот қўшиш"
+    }
+  ],
+  "add_to_cart": [
+    {
+      "type": 0,
+      "value": "Саватчага қўшиш"
+    }
+  ],
+  "add_used_products": [
+    {
+      "type": 0,
+      "value": "Ишлатилган маҳсулотни қўшинг + "
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Манзиллар"
+    }
+  ],
+  "all_rights": [
+    {
+      "type": 0,
+      "value": "© 2021 Ҳаппй.ме - Барча ҳуқуқлар ҳимояланган"
+    }
+  ],
+  "back_to_product_list": [
+    {
+      "type": 0,
+      "value": "Маҳсулотлар рўйхатига қайтиш"
+    }
+  ],
+  "balance": [
+    {
+      "type": 0,
+      "value": "Баланс:"
+    }
+  ],
+  "banner_button": [
+    {
+      "type": 0,
+      "value": "Ташриф буюринг"
+    }
+  ],
+  "birthdate": [
+    {
+      "type": 0,
+      "value": "Туғилган кун"
+    }
+  ],
+  "blocked": [
+    {
+      "type": 0,
+      "value": "Блокланган"
+    }
+  ],
+  "bonus": [
+    {
+      "type": 0,
+      "value": "Бонус"
+    }
+  ],
+  "book": [
+    {
+      "type": 0,
+      "value": "Харид қилиш"
+    }
+  ],
+  "budget": [
+    {
+      "type": 0,
+      "value": "Хисоб"
+    }
+  ],
+  "budget_fulfill": [
+    {
+      "type": 0,
+      "value": "Илтимос, пул миқдорини киритинг"
+    }
+  ],
+  "business_account": [
+    {
+      "type": 0,
+      "value": "Бизнесс аккоунт"
+    }
+  ],
+  "button_check_status": [
+    {
+      "type": 0,
+      "value": "буюртма ҳолатини текшириш -ни босинг."
+    }
+  ],
+  "cart": [
+    {
+      "type": 0,
+      "value": "Саватча"
+    }
+  ],
+  "cashback": [
+    {
+      "type": 0,
+      "value": "Kашбаcк"
+    }
+  ],
+  "categories": [
+    {
+      "type": 0,
+      "value": "Категориялар"
+    }
+  ],
+  "category_name": [
+    {
+      "type": 0,
+      "value": "Категория номи"
+    }
+  ],
+  "changed_info_success": [
+    {
+      "type": 0,
+      "value": "Профил маълумотлари муваффақиятли ўзгартирилди"
+    }
+  ],
+  "check_button_status": [
+    {
+      "type": 0,
+      "value": "Буюртма ҳолатини текшириш"
+    }
+  ],
+  "check_order_status": [
+    {
+      "type": 0,
+      "value": "Буюртма ва тўлов ҳолатини билиш учун унинг рақамини киритинг ва "
+    }
+  ],
+  "choose_category": [
+    {
+      "type": 0,
+      "value": "Илтимос, категорияни танланг"
+    }
+  ],
+  "choose_delivery_time": [
+    {
+      "type": 0,
+      "value": "Етказиб бериш вақтини танланг"
+    }
+  ],
+  "choose_length_scales": [
+    {
+      "type": 0,
+      "value": "Илтимос, узунлик ўлчовларидан бирига танланг"
+    }
+  ],
+  "choose_place_map": [
+    {
+      "type": 0,
+      "value": "Харитадан жой танланг"
+    }
+  ],
+  "company_name": [
+    {
+      "type": 0,
+      "value": "Компания номи"
+    }
+  ],
+  "connectUs": [
+    {
+      "type": 0,
+      "value": "Биз билан боғланиш"
+    }
+  ],
+  "connectUsText": [
+    {
+      "type": 0,
+      "value": "Тез орада"
+    }
+  ],
+  "connect_A": [
+    {
+      "type": 0,
+      "value": "Aдмин билан боғланиш"
+    }
+  ],
+  "contact": [
+    {
+      "type": 0,
+      "value": "Aлоқа"
+    }
+  ],
+  "corporate_send_sucess": [
+    {
+      "type": 0,
+      "value": "Хабар муваффақиятли юборилди"
+    }
+  ],
+  "correct_password": [
+    {
+      "type": 0,
+      "value": "Тўгри паролни киритинг"
+    }
+  ],
+  "correct_phone": [
+    {
+      "type": 0,
+      "value": "Тўгри форматдаги телефон рақамини киритинг"
+    }
+  ],
+  "create_shop": [
+    {
+      "type": 0,
+      "value": "Mагазин яратиш"
+    }
+  ],
+  "create_shop_success": [
+    {
+      "type": 0,
+      "value": "Дўкон муваффақиятли яратилди"
+    }
+  ],
+  "currency": [
+    {
+      "type": 0,
+      "value": "Валюта"
+    }
+  ],
+  "currency_required": [
+    {
+      "type": 0,
+      "value": "Илтимос, пул бирлигини танланг"
+    }
+  ],
+  "currency_unit": [
+    {
+      "type": 0,
+      "value": "Валюталардан бирини танланг"
+    }
+  ],
+  "dashboard": [
+    {
+      "type": 0,
+      "value": "Бошқа"
+    }
+  ],
+  "date": [
+    {
+      "type": 0,
+      "value": "Cана"
+    }
+  ],
+  "delete": [
+    {
+      "type": 0,
+      "value": "Ўчириш"
+    }
+  ],
+  "deliver": [
+    {
+      "type": 0,
+      "value": "Етказиб бериш шартлари"
+    }
+  ],
+  "delivered": [
+    {
+      "type": 0,
+      "value": "Етказиб берилди"
+    }
+  ],
+  "delivering": [
+    {
+      "type": 0,
+      "value": "Етказиб бериш жараёнида"
+    }
+  ],
+  "delivery_price": [
+    {
+      "type": 0,
+      "value": "Етказиб бериш нархи"
+    }
+  ],
+  "delivery_time": [
+    {
+      "type": 0,
+      "value": "Еткзаиб бериш вақти"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "Тавсиф"
+    }
+  ],
+  "desktop_navigation_cabinet": [
+    {
+      "type": 0,
+      "value": "Kабинет"
+    }
+  ],
+  "document": [
+    {
+      "type": 0,
+      "value": "Юридик ҳужжатлар"
+    }
+  ],
+  "drag_drop": [
+    {
+      "type": 0,
+      "value": "Маҳсулот тасвирини бу ерга  ташланг"
+    }
+  ],
+  "edit_p": [
+    {
+      "type": 0,
+      "value": "Профилни tахриpлаш"
+    }
+  ],
+  "edit_product": [
+    {
+      "type": 0,
+      "value": "Маҳсулотни таҳрирлаш"
+    }
+  ],
+  "email": [
+    {
+      "type": 0,
+      "value": "Электрон почта"
+    }
+  ],
+  "empty": [
+    {
+      "type": 0,
+      "value": "Бўш"
+    }
+  ],
+  "empty_cart": [
+    {
+      "type": 0,
+      "value": "Сизнинг саватчангиз бўш. Харид қилишни бошланг"
+    }
+  ],
+  "error_booking": [
+    {
+      "type": 0,
+      "value": "Нимадир нотўғри бажарилди"
+    }
+  ],
+  "estimated_delivery": [
+    {
+      "type": 0,
+      "value": "Етказиб бериш вақти"
+    }
+  ],
+  "footer_header_link1": [
+    {
+      "type": 0,
+      "value": "Компания ҳақида"
+    }
+  ],
+  "footer_header_link1_sublink1": [
+    {
+      "type": 0,
+      "value": "Биз ҳақимизда"
+    }
+  ],
+  "footer_header_link1_sublink2": [
+    {
+      "type": 0,
+      "value": "Карйера"
+    }
+  ],
+  "footer_header_link1_sublink3": [
+    {
+      "type": 0,
+      "value": "Бўш иш ўринлари"
+    }
+  ],
+  "footer_header_link1_sublink4": [
+    {
+      "type": 0,
+      "value": "Ҳамкорлик"
+    }
+  ],
+  "footer_header_link2": [
+    {
+      "type": 0,
+      "value": "Мижозларга хизмат"
+    }
+  ],
+  "footer_header_link2_sublink1": [
+    {
+      "type": 0,
+      "value": "Ёрдам маркази"
+    }
+  ],
+  "footer_header_link2_sublink2": [
+    {
+      "type": 0,
+      "value": "Қандай сотиб олиш мумкин"
+    }
+  ],
+  "footer_header_link2_sublink3": [
+    {
+      "type": 0,
+      "value": "Қайтариш"
+    }
+  ],
+  "footer_header_link2_sublink4": [
+    {
+      "type": 0,
+      "value": "Хизматлар"
+    }
+  ],
+  "footer_header_link2_sublink5": [
+    {
+      "type": 0,
+      "value": "Операцион хизматлар"
+    }
+  ],
+  "footer_header_link3": [
+    {
+      "type": 0,
+      "value": "Дўконлар"
+    }
+  ],
+  "full": [
+    {
+      "type": 0,
+      "value": "Тўлиқ ўқиш"
+    }
+  ],
+  "full_name": [
+    {
+      "type": 0,
+      "value": "Тўлиқ исм"
+    }
+  ],
+  "go_back": [
+    {
+      "type": 0,
+      "value": "Ортга қайтиш"
+    }
+  ],
+  "go_home": [
+    {
+      "type": 0,
+      "value": "Aсосий саҳифага қайтиш"
+    }
+  ],
+  "height": [
+    {
+      "type": 0,
+      "value": "Баландлик"
+    }
+  ],
+  "height_unit": [
+    {
+      "type": 0,
+      "value": "Баландлик бирлиги"
+    }
+  ],
+  "help": [
+    {
+      "type": 0,
+      "value": "Ёрдам"
+    }
+  ],
+  "help_text": [
+    {
+      "type": 0,
+      "value": " Aгар сизда веб -сайт билан боғлиқ саволларингиз бўлса, биз билан боғланинг"
+    }
+  ],
+  "hi": [
+    {
+      "type": 0,
+      "value": "Салом "
+    }
+  ],
+  "high_low": [
+    {
+      "type": 0,
+      "value": "Нархи юқоридан пастга"
+    }
+  ],
+  "hisob": [
+    {
+      "type": 0,
+      "value": "Менинг xисобим"
+    }
+  ],
+  "hour": [
+    {
+      "type": 0,
+      "value": "соат"
+    }
+  ],
+  "in_moderation": [
+    {
+      "type": 0,
+      "value": "Ўзгартиришда"
+    }
+  ],
+  "inactive": [
+    {
+      "type": 0,
+      "value": "Фаол емас"
+    }
+  ],
+  "input_phone": [
+    {
+      "type": 0,
+      "value": "Илтимос телефон рақамингизни киритинг!"
+    }
+  ],
+  "input_sms": [
+    {
+      "type": 0,
+      "value": "Илтимос, киритилган СМС-хабарни киритинг"
+    }
+  ],
+  "item": [
+    {
+      "type": 0,
+      "value": "та"
+    }
+  ],
+  "kod": [
+    {
+      "type": 0,
+      "value": "Код"
+    }
+  ],
+  "less": [
+    {
+      "type": 0,
+      "value": "Камроқ оқиш"
+    }
+  ],
+  "login_phone": [
+    {
+      "type": 0,
+      "value": "Телефон рақами билан рўйҳатдан ўтинг"
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "Чиkиш"
+    }
+  ],
+  "low_high": [
+    {
+      "type": 0,
+      "value": "Нарх пастдан юқорига"
+    }
+  ],
+  "material_select": [
+    {
+      "type": 0,
+      "value": "Илтимос, маҳсулотингизга тегишли материални танланг"
+    }
+  ],
+  "materials": [
+    {
+      "type": 0,
+      "value": "Материал"
+    }
+  ],
+  "min": [
+    {
+      "type": 0,
+      "value": "минут"
+    }
+  ],
+  "mobile_navigation_account": [
+    {
+      "type": 0,
+      "value": "Aккоунт"
+    }
+  ],
+  "mobile_navigation_category": [
+    {
+      "type": 0,
+      "value": "Категория"
+    }
+  ],
+  "mobile_navigation_home": [
+    {
+      "type": 0,
+      "value": "Aсосий"
+    }
+  ],
+  "my_profile": [
+    {
+      "type": 0,
+      "value": "Менинг профилим"
+    }
+  ],
+  "need_help": [
+    {
+      "type": 0,
+      "value": "Ёрдам керакми?"
+    }
+  ],
+  "need_today": [
+    {
+      "type": 0,
+      "value": "Бугун керакми?"
+    }
+  ],
+  "none_orders": [
+    {
+      "type": 0,
+      "value": "Сизнинг дўконингиздан ҳеч нарса буюртма қилинмаган"
+    }
+  ],
+  "off(chegirma)": [
+    {
+      "type": 0,
+      "value": "Чегирма"
+    }
+  ],
+  "order_again": [
+    {
+      "type": 0,
+      "value": "Қайта буюртма"
+    }
+  ],
+  "order_not_found": [
+    {
+      "type": 0,
+      "value": " сонли буюртма топилмади"
+    }
+  ],
+  "order_status": [
+    {
+      "type": 0,
+      "value": "Буюртма ҳолати"
+    }
+  ],
+  "orders": [
+    {
+      "type": 0,
+      "value": "Менинг буюртмаларим"
+    }
+  ],
+  "packaging": [
+    {
+      "type": 0,
+      "value": "Қадоқлаш жараёнида"
+    }
+  ],
+  "payment": [
+    {
+      "type": 0,
+      "value": "Тўлов"
+    }
+  ],
+  "payment_methods": [
+    {
+      "type": 0,
+      "value": "Тўлов усуллари"
+    }
+  ],
+  "phone_number": [
+    {
+      "type": 0,
+      "value": "Телефон pаkам"
+    }
+  ],
+  "postcard text": [
+    {
+      "type": 0,
+      "value": "Откридка матни"
+    }
+  ],
+  "price_with_delivery": [
+    {
+      "type": 0,
+      "value": "Йетказиб бериш билан нархи"
+    }
+  ],
+  "products_total_price": [
+    {
+      "type": 0,
+      "value": "Маҳсулотларнинг умумий нархи"
+    }
+  ],
+  "profile_info": [
+    {
+      "type": 0,
+      "value": "Профил ҳақида маълумот"
+    }
+  ],
+  "rating": [
+    {
+      "type": 0,
+      "value": "Баҳоланган"
+    }
+  ],
+  "rating_required": [
+    {
+      "type": 0,
+      "value": "Баҳо қўйиш мажбурий"
+    }
+  ],
+  "recaptcha_verify": [
+    {
+      "type": 0,
+      "value": "Илтимос, ўзингизни верификация орқали бот эмаслигингизни тасдиқланг"
+    }
+  ],
+  "register": [
+    {
+      "type": 0,
+      "value": "Регистрация"
+    }
+  ],
+  "related_product": [
+    {
+      "type": 0,
+      "value": "Aлоқадор маҳсулотлар"
+    }
+  ],
+  "replenish": [
+    {
+      "type": 0,
+      "value": "Ҳамённи тўлдириш"
+    }
+  ],
+  "required_description": [
+    {
+      "type": 0,
+      "value": "Тавсиф талаб қилинади"
+    }
+  ],
+  "results_found": [
+    {
+      "type": 0,
+      "value": "натижалар топилди"
+    }
+  ],
+  "review_placeholder": [
+    {
+      "type": 0,
+      "value": "Бу йерда шарҳ ёзинг ..."
+    }
+  ],
+  "rows_per_page": [
+    {
+      "type": 0,
+      "value": "Xар саҳифадаги сатрлар"
+    }
+  ],
+  "sale_price": [
+    {
+      "type": 0,
+      "value": "Сотиш нархи"
+    }
+  ],
+  "search": [
+    {
+      "type": 0,
+      "value": "Қидиринг ва eнтер тугмасини босинг ..."
+    }
+  ],
+  "search_for": [
+    {
+      "type": 0,
+      "value": "Қидирув сози:"
+    }
+  ],
+  "section12_item1_text": [
+    {
+      "type": 0,
+      "value": "  Биз ҳар қандай ассортиментдаги 100 миллион плюс маҳсулотимизга рақобатбардош нархларни таклиф етамиз."
+    }
+  ],
+  "section12_item1_title": [
+    {
+      "type": 0,
+      "value": "Дунё бўйлаб йетказиб бериш"
+    }
+  ],
+  "section12_item2_text": [
+    {
+      "type": 0,
+      "value": "  Биз ҳар қандай ассортиментдаги 100 миллион плюс маҳсулотимизга рақобатбардош нархларни таклиф етамиз."
+    }
+  ],
+  "section12_item2_title": [
+    {
+      "type": 0,
+      "value": "Дунё бўйлаб йетказиб бериш"
+    }
+  ],
+  "section12_item3_text": [
+    {
+      "type": 0,
+      "value": "  Биз ҳар қандай ассортиментдаги 100 миллион плюс маҳсулотимизга рақобатбардош нархларни таклиф етамиз."
+    }
+  ],
+  "section12_item3_title": [
+    {
+      "type": 0,
+      "value": "Дунё бўйлаб йетказиб бериш"
+    }
+  ],
+  "section12_item4_text": [
+    {
+      "type": 0,
+      "value": "  Биз ҳар қандай ассортиментдаги 100 миллион плюс маҳсулотимизга рақобатбардош нархларни таклиф етамиз."
+    }
+  ],
+  "section12_item4_title": [
+    {
+      "type": 0,
+      "value": "Дунё бўйлаб йетказиб бериш"
+    }
+  ],
+  "section12_title": [
+    {
+      "type": 0,
+      "value": "Истеъмолчиларнинг бизнинг хизматимизга муносабати"
+    }
+  ],
+  "select_files": [
+    {
+      "type": 0,
+      "value": "Файлларни танланг"
+    }
+  ],
+  "select_gender": [
+    {
+      "type": 0,
+      "value": "Жинсингиз"
+    }
+  ],
+  "select_image": [
+    {
+      "type": 0,
+      "value": "Илтимос, расмни танланг"
+    }
+  ],
+  "select_location": [
+    {
+      "type": 0,
+      "value": "Жойни танланг"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "Сақлаш"
+    }
+  ],
+  "send(jonatish)": [
+    {
+      "type": 0,
+      "value": "Юбориш"
+    }
+  ],
+  "send_again": [
+    {
+      "type": 0,
+      "value": "Кодни кайта юборинг"
+    }
+  ],
+  "send_ask_again": [
+    {
+      "type": 0,
+      "value": "Сиз 1 дакикадан сўнг кодни қайта юборишни сўрашингиз мумкин"
+    }
+  ],
+  "send_message": [
+    {
+      "type": 0,
+      "value": "Кодни юборинг"
+    }
+  ],
+  "shop": [
+    {
+      "type": 0,
+      "value": "Менинг доконларим"
+    }
+  ],
+  "shop_links": [
+    {
+      "type": 0,
+      "value": "Сизнинг дўконингиз билан боғлиқ ҳаволалар (Kанал, Фаcебоок, Ютуб ....)\""
+    }
+  ],
+  "shop_name": [
+    {
+      "type": 0,
+      "value": "Дўкон номи"
+    }
+  ],
+  "shop_review": [
+    {
+      "type": 0,
+      "value": "Ушбу дўкон ҳақида фикр қолдиринг"
+    }
+  ],
+  "site": [
+    {
+      "type": 0,
+      "value": "Сайт"
+    }
+  ],
+  "social_links": [
+    {
+      "type": 0,
+      "value": "Ижтимоий тармоқлар"
+    }
+  ],
+  "sold_by": [
+    {
+      "type": 0,
+      "value": "Сотувчи"
+    }
+  ],
+  "stock_available": [
+    {
+      "type": 0,
+      "value": "Омборда бор"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "Юбориш"
+    }
+  ],
+  "successfully_booked": [
+    {
+      "type": 0,
+      "value": "Сиз муваффақиятли брон қилдингиз"
+    }
+  ],
+  "sum": [
+    {
+      "type": 0,
+      "value": "cўм"
+    }
+  ],
+  "support_tickets": [
+    {
+      "type": 0,
+      "value": "Ёрдам чипталари"
+    }
+  ],
+  "text_below_postcard": [
+    {
+      "type": 0,
+      "value": "Биз олувчига гулларнинг кимлигини айтмаймиз. Агар қабул қилувчингиз совғани ким юборганини билишини истасангиз обуна бўлинг"
+    }
+  ],
+  "text_required": [
+    {
+      "type": 0,
+      "value": "Фикр билдириш мажбурий"
+    }
+  ],
+  "top_category": [
+    {
+      "type": 0,
+      "value": "Топ категориялар"
+    }
+  ],
+  "total_summary": [
+    {
+      "type": 0,
+      "value": "Умумий ҳисоб"
+    }
+  ],
+  "unit": [
+    {
+      "type": 0,
+      "value": "Бирлик"
+    }
+  ],
+  "unit_select": [
+    {
+      "type": 0,
+      "value": "Илтимос, маҳсулотингизга мос келадиган битта бирликни танланг"
+    }
+  ],
+  "units_error": [
+    {
+      "type": 0,
+      "value": "Илтимос, узунлик бирликларидан бирини танланг"
+    }
+  ],
+  "update_vendor_info_button": [
+    {
+      "type": 0,
+      "value": "Сотувчи ҳақидаги маълумотларни янгиланг"
+    }
+  ],
+  "upload_images": [
+    {
+      "type": 0,
+      "value": "Расмларни юклаш"
+    }
+  ],
+  "user": [
+    {
+      "type": 0,
+      "value": "Кириш"
+    }
+  ],
+  "view_all": [
+    {
+      "type": 0,
+      "value": "Ҳаммаси"
+    }
+  ],
+  "visit_Shop": [
+    {
+      "type": 0,
+      "value": "Дўконга кириш"
+    }
+  ],
+  "wallet": [
+    {
+      "type": 0,
+      "value": "Xамён"
+    }
+  ],
+  "wallet_instructions": [
+    {
+      "type": 0,
+      "value": "Xамёнингиздаги ҳисобдан еълонлар реклама қилиш,тўплам ва алоҳида еълонлар сотиб олишда фойдаланинг"
+    }
+  ],
+  "welcome_login": [
+    {
+      "type": 0,
+      "value": "Гуллар до'конига xуш келибсиз"
+    }
+  ],
+  "width": [
+    {
+      "type": 0,
+      "value": "Ени"
+    }
+  ],
+  "width_unit": [
+    {
+      "type": 0,
+      "value": "Ени бирлиги"
+    }
+  ],
+  "wishlist": [
+    {
+      "type": 0,
+      "value": "Севимлилар"
+    }
+  ],
+  "work_end_time": [
+    {
+      "type": 0,
+      "value": "Ишнинг тугаш вақти"
+    }
+  ],
+  "work_start_time": [
+    {
+      "type": 0,
+      "value": "Ишнинг бошланиш вақти"
+    }
+  ],
+  "write_review": [
+    {
+      "type": 0,
+      "value": "Ушбу маҳсулот ҳақида шарҳ ёзинг"
+    }
+  ],
+  "your_address": [
+    {
+      "type": 0,
+      "value": "Сизнинг манзилингиз"
+    }
+  ],
+  "your_address_map": [
+    {
+      "type": 0,
+      "value": "Сизнинг манзилингиз (харитадаги манзилни белгиланг)"
+    }
+  ],
+  "youtube": [
+    {
+      "type": 0,
+      "value": "Ютуб"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /vendor/account-settings
+Disallow: /vendor/add-product
+Disallow: /vendor/orders
+Disallow: /vendor/products
+Disallow: /wish-list
+Disallow: /profile/edit
+Disallow: /profile/budget
+Disallow: /server-sitemap.xml
+Disallow: /terms_deliver
+Disallow: /document
+Disallow: /about
+Disallow: /review
+Disallow: /vendor/create/
+Disallow: /cart
+Disallow: /mobile-cart
+
+# Host
+Host: https://dana.uz
+
+# Sitemaps
+Sitemap: https://dana.uz/sitemap.xml
+Sitemap: https://dana.uz/server-sitemap.xml
